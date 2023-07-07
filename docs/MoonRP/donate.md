@@ -69,8 +69,8 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Skrzynka Cardealer      |    10 zł  |Znizka na pojazd z cardealera od 10% do 25%|
 | Awans w PD      |    30 zł  | 1 Ranga w góre|
 | Własna szafka|    50 zł  |   Podstawa 100kg do max 150kg za opłatą   |
-| Stół do Craftingu Dodatki|    50 zł  |   Dodatki do broni / Stół sie psuje po 10 użyciach   |
-| Stół do Craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
+| Stół do Craftingu Dodatki|    50 zł  |   Dodatki do broni / Stół traci 1% wytrzymałości przy każdym craftowaniu   |
+| Stół do Craftingu Broni|    50 zł  |    Stół traci 1% wytrzymałości przy każdym craftowaniu   |
 | Podniesienie limitki do klasy wyżej|    150 zł  |       |
 | Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
 | Własna firma |    100+ zł  | Firma której nie ma na serwerze |
