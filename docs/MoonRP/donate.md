@@ -14,8 +14,8 @@ sidebar_position: 3
 |------------         |-----------|--------|
 | [Promocja] Custom rejestracja pojazdu|    10 zł  | Musi być 8 znaków spacja się również liczy|
 | [Promocja] Custom nummer telefonu|    10 zł  |  |
-| Skrzynka Broni dlugiej|    150 zł  | 2x `AKS`,`UZI`,`Flashbang`,`Micro SMG`,`AK47`,|
-| Skrzynka Broni dlugiej 2|    150 zł  | 2x `SMG`, `Gusenberg`, `Dwururka`, `Molotov`, `M4A1`|
+| Skrzynka Broni dlugiej|    150 zł  | 2x `AKS`,`UZI`,`Micro SMG`,`AK47`,|
+| Skrzynka Broni dlugiej 2|    150 zł  | 2x `SMG`, `Gusenberg`, `Dwururka`, `M4A1`|
 | Wnetrze domku|    10 zł  | Zmiana wnetrza domku|
 | Skrzynka Lokalnych 1|    25 zł  | `Eleghy`, `Gauntlet Hellfire`, `Infernus`, `Kuruma`, `Mamba`|
 | Skrzynka Lokalnych 2|    25 zł  | `Lectro`, `Massacro`, `Monroe`, `Hermes`, `Nero`|
@@ -23,6 +23,8 @@ sidebar_position: 3
 | Skrzynka Lokalnych 4|    25 zł  | `10F Widebody`, `Ardent`, `Banshee 900R`, `Rebla`, `Comet S2`|
 | Skrzynka Lokalnych 5|    25 zł  | `Coquette Classic`, `Coquette D10`, `Trophy Truck`, `Elegy RH8`, `Feltzer`|
 | Skrzynka Import 9|    25 zł  | `ToTota Supra GR`, `Burango`, `Bissan Silvia S15 Rocket Bunny`, `AuBi RS 3`, `ToTota Tacoma`|
+| Skrzynka Broni 2       |    40 zł  |`4x Glock`,`4x HeavyPistol`, `4x Deagle`|
+
 
 
 :::note po Donate
