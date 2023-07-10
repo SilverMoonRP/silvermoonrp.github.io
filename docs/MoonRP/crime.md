@@ -27,7 +27,6 @@ Zobacz [Regulamin](../regulamin.md) podpunkt 6 tabelke aby zobaczyć dokładne l
 - Kokainium można zdobyć z więzienia lub wytworzyć w stole do craftu zakupionego w Darkshopie.
 - Armor dodaje 85% armora.
 - SNS pistol jest najtanszym ale najgorszym pistoletem na serwerze.
-- 1 Blant dodaje 25% armora chyba że przerwiesz animacje.
 - Gdy zakupisz pasywny armor w /gang otrzymujesz 1% armora na minutę.
 - Przy zmianie pojazdu podczas pościgu policja strzeli ci w opony.
 - Policja może zacząć strzelać gdy zaczniesz celować do policjanta lub go poddawać.
