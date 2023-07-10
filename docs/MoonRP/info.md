@@ -24,6 +24,7 @@ Poziomy na serwerze wbija się poprzez pracowanie legalnie, robienie misji lub n
 - Użycie /kajdanki 2 razy
 - Wyciaganie pojazdu z garazu jest za darmo
 - +10kg wagi
+- +10 slotów
 - Staty na siłowni *2
 - Daily skrzynka
 
