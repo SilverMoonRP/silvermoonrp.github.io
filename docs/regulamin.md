@@ -87,8 +87,8 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.18 Przeszukiwać można dopiero po skończonej akcji!
 - 6.19 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
 - 6.20 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego.
-- 6.21 Gdy jedna grupa rozpoczeła odbijanie i sie nie udało nie mogą oni już być odbijani
-- 6.22 Zakazuje się jednej ekipie robić dwóch napadów w tym samym czasie
+- 6.21 Gdy jedna grupa rozpoczeła odbijanie i sie nie udało nie mogą oni już być odbijani.
+- 6.22 Zakazuje się jednej ekipie robić dwóch napadów w tym samym czasie.
 - 6.23 Zezwala się aby grupa niezorganizowana działała w 6 podczas odbicia konwoju na więzienie.
 
 | Limity     |  Crime |   LSPD   | Czas oczekiwania na LSPD |
@@ -105,7 +105,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 
 :::caution PAMIETAJ!
 
-Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
+Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby (6.23)
 
 :::
 
