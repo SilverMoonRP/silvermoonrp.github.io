@@ -90,6 +90,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.21 Gdy jedna grupa rozpoczeła odbijanie i sie nie udało nie mogą oni już być odbijani.
 - 6.22 Zakazuje się jednej ekipie robić dwóch napadów w tym samym czasie.
 - 6.23 Zezwala się aby grupa niezorganizowana działała w 6 podczas odbicia konwoju na więzienie.
+- 6.24 Zakaz ddosowania serwera.
 
 | Limity     |  Crime |   LSPD   | Czas oczekiwania na LSPD |
 |------------|--------|----------|-------|
