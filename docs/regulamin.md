@@ -97,10 +97,10 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 | Sklep      |   1-3  |    2-4   |   x   |
 | Gruppe6    |   1-6  |    3-6   |   x   |
 | Fleeca     |   2-4  |    2-6   | 40min |
-| Jubiler    |   2-6  |    3-6   | 40min |
-| Pacyfik    |   3-6  |    4-7   | 60min |
-| Ammunation |   3-6  |    4-7   | 60min |
-| Cyber      |   3-7  |    5-8   | 80min |
+| Jubiler    |   2-6  |    3-7   | 40min |
+| Pacyfik    |   3-6  |    4-8   | 60min |
+| Ammunation |   3-6  |    4-8   | 60min |
+| Cyber      |   3-7  |    5-9   | 80min |
 | Narko      |   1-4  |    2-6   |   x   |
 | Kradzieże (`Ciężarówka`, `Kradzież Pojazdu`, `Bankomat`, `Obywatele`. `Itp`)|     1-4  |   2-6  |  x  |
 
