@@ -169,7 +169,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 10.6 Możliwe jest wykorzystanie nagrania , które zostało zarejestrowane przez kamery dostępne na serwerze.
 - 10.7 Zorganizowana grupa przestępcza to taka której projekt został zaakceptowany na disc. Jeżeli nie max osób współpracujących ze sobą to 4.
 - 10.7.1 Za zorganizowaną grupę przestępcza uważa się grupę min. 3 osób a maks. 15 osób prowadzących nielegalną działalność.
-- 10.8 Zakazuje się zabijania funkcjonariuszy publicznych na służbie jeżeli nie jesteś poszukiwany oraz nie ma pościgu za tobą za ciężką zbrodnie.
+- 10.8 Zakazuje się zabijania funkcjonariuszy publicznych na służbie jeżeli nie jesteś poszukiwany oraz nie ma pościgu za tobą.
 - 10.9 Za wybryki jednego członka organizacji odpowiada cała ekipa.
 
 ## 11. Dodatkowe reguły:
