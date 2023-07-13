@@ -23,11 +23,11 @@ Zobacz [Regulamin](../regulamin.md) podpunkt 6 tabelke aby zobaczyć dokładne l
 
 ## Przydatne Informacje
 
-- Kokainium, adrenalina dodaje 100% armora po użyciu.
+- Kokainium<img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129111423608430622/asscoke.png" alt="Koka" width="50" height="50"/>, adrenalina <img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129111436786937876/adrenalina.png" alt="Adrenalina" width="50" height="50"/> dodaje 100% armora po użyciu.
 - Kokainium można zdobyć z więzienia lub wytworzyć w stole do craftu zakupionego w Darkshopie.
-- Armor dodaje 85% armora.
+- Armor dodaje 85% armora. <img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129111319681978449/armor.png" alt="Armor" width="50" height="50"/>
 - SNS pistol jest najtanszym ale najgorszym pistoletem na serwerze.
-- Gdy zakupisz pasywny armor w /gang otrzymujesz 1% armora na minutę. <img src="/img/SilverMoonRP.png" alt="Preview" width="2" height="2"/>
+- Gdy zakupisz pasywny armor w /gang otrzymujesz 1% armora na minutę.
 - Przy zmianie pojazdu podczas pościgu policja strzeli ci w opony.
 - Policja może zacząć strzelać gdy zaczniesz celować do policjanta lub go poddawać.
 - Strzał w głowe nie zabija na hita ale zadaje większe obrażenia.
