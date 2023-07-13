@@ -35,5 +35,5 @@ Zobacz [Regulamin](../regulamin.md) podpunkt 6 tabelke aby zobaczyć dokładne l
 - Robienie wytrzymałośći na siłowni daje ci możliwość dłuższego biegania.
 
 :::tip
-Kokainium, adrenalina można użyć co 15min
+Kokainium<img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129111423608430622/asscoke.png" alt="Koka" width="25" height="25" style={{marginBottom: "-7px"}} />, adrenalina<img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129111436786937876/adrenalina.png" alt="Adrenalina" width="25" height="25" style={{marginBottom: "-7px"}}/> można użyć co 15min
 :::
