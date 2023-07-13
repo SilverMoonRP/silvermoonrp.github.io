@@ -31,7 +31,7 @@ Zobacz [Regulamin](../regulamin.md) podpunkt 6 tabelke aby zobaczyć dokładne l
 - Przy zmianie pojazdu podczas pościgu policja strzeli ci w opony.
 - Policja może zacząć strzelać gdy zaczniesz celować do policjanta lub go poddawać.
 - Strzał w głowe nie zabija na hita ale zadaje większe obrażenia.
-- Vpn<img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129112799428222986/vpn.png" alt="vpn" width="25" height="25" style="vertical-align:middle"> można nazwac używając go po nazwaniu na darkwebie oraz w wyścigach będzie podana nazwa która wpisałeś jeżeli posiadasz go w inventory.
+- Vpn można nazwac używając go po nazwaniu na darkwebie oraz w wyścigach będzie podana nazwa która wpisałeś jeżeli posiadasz go w inventory.
 - Robienie wytrzymałośći na siłowni daje ci możliwość dłuższego biegania.
 
 :::tip
