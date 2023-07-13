@@ -3,9 +3,9 @@ sidebar_position: 1
 ---
 # Crafting
 
-# Trwaja prace...
+# Rodzaje Craftingu
 
-- Są dwa rodzaje craftingu na serwerze jeden poprzez /craft oraz drugi poprzez użycie <img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129131715382739085/crafting.png" alt="zdjecie" width="50" height="50" style={{marginBottom: "-7px"}}/>
+- Są różne rodzaje craftingu na serwerze jeden poprzez /craft drugi poprzez użycie <img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129131715382739085/crafting.png" alt="zdjecie" width="50" height="50" style={{marginBottom: "-7px"}}/> trzeci poprzez użycie <img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129140532648616057/piec.png" alt="zdjecie" width="50" height="50" style={{marginBottom: "-7px"}}/> czwarty poprzez użycie <img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129140654006616154/gril.png" alt="zdjecie" width="50" height="50" style={{marginBottom: "-7px"}}/>
 
 - Itemy w craftingu /craft
 
