@@ -23,7 +23,7 @@ Zobacz [Regulamin](../regulamin.md) podpunkt 6 tabelke aby zobaczyć dokładne l
 
 ## Przydatne Informacje
 
-- Kokainium<img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129111423608430622/asscoke.png" alt="Koka" width="25" height="25" style={{ vertical-align: 'middle' }} />, adrenalina <img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129111436786937876/adrenalina.png" alt="Adrenalina" width="25" height="25" /> dodaje 100% armora po użyciu.
+- Kokainium<img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129111423608430622/asscoke.png" alt="Koka" width="25" height="25" style={{color: "red"}} />, adrenalina <img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129111436786937876/adrenalina.png" alt="Adrenalina" width="25" height="25" /> dodaje 100% armora po użyciu.
 - Kokainium można zdobyć z więzienia lub wytworzyć w stole do craftu zakupionego w Darkshopie.
 - Armor <img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129111319681978449/armor.png" alt="Armor" width="25" height="25" /> dodaje 85% armora.
 - SNS pistol <img src="https://cdn.discordapp.com/attachments/1129111287134158878/1129112622025941112/WEAPON_SNSPISTOL.png" alt="sns" width="25" height="25" /> jest najtanszym ale najgorszym pistoletem na serwerze.
