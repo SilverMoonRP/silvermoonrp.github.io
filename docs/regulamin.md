@@ -60,6 +60,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 5.4 Zakazuje się odgrywania osób psychicznie chorych.
 - 5.5 Zakazuje się przenoszenia rzeczy z jednej postaci na druga. 
 - 5.6 Zakazuje się robienia dwuczłonowych imion oraz nazwisk. 
+- 5.7 Zakazuje sie posiadania więcej niz jedna postać w tej samej oragnizacji
 
 ## 6. Przestępstwa:
 
@@ -91,11 +92,11 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.22 Zakazuje się jednej ekipie robić dwóch napadów w tym samym czasie.
 - 6.23 Zezwala się aby grupa niezorganizowana działała w 6 podczas odbicia konwoju na więzienie.
 - 6.24 Zakaz ddosowania serwera.
-- 6.25 Zakazuje się lootowania broni długiej z poległych funkcjonariuszy policji w sytuacji gdy CRIME nie użył broni długiej w akcji przed sytuacja w której było minimum 3 przytomnych funkcjonariuszy policji BIORĄCYCH UDZIAŁ W DANEJ AKCJI.
+- 6.25 Zakazuje się lootowania broni długiej z poległych funkcjonariuszy policji w sytuacji gdy CRIME nie użył broni długiej w akcji przed sytuacja w której było minimum 3 przytomnych funkcjonariuszy policji BIORĄCYCH UDZIAŁ W DANEJ AKCJI. Nie dotyczy WALKI O ZRZUT
 
 | Limity     |  Crime |   LSPD   | Czas oczekiwania na LSPD |
 |------------|--------|----------|-------|
-| Sklep      |   1-3  |    2-4   |   x   |
+| Sklep      |   1-4  |    2-6   |   x   |
 | Gruppe6    |   1-6  |    3-6   |   x   |
 | Fleeca     |   2-4  |    2-6   | 40min |
 | Jubiler    |   2-6  |    3-7   | 40min |
