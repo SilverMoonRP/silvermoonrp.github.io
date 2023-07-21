@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Kamienie oraz Drzewa
+
+# Zarobek
 
 # Trwaja prace...
