@@ -51,6 +51,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 4.3  Zwołanie rządowego jest możliwe dopiero po zakończeniu danej akcji RP. W przypadku oskarżenia innego gracza przez gracza należy przedstawić konkretne dowody w postaci screena lub filmiku.
 - 4.4 Nick ze steama i discorda powinien być taki sam lub podobny.
 - 4.5 Zakazuję się komunikowania poza grą czyli na discordzie, TS lub innych komunikatorach jeżeli aktualnie znajdujemy się na serwerze.
+- 4.6 Opuszczenie rządowego gdy sprawa nie została jeszcze rozwiązana może skutkować banem.
 
 ## 5. Postacie:
 
