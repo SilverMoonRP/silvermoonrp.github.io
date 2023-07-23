@@ -6,10 +6,16 @@ sidebar_position: 2
 
 # Trwaja prace...
 
-Na serwerze SilverMoonRP jest wiele opcji zarobku tutaj omówimy tylko legalny
+Na serwerze SilverMoonRP jest wiele opcji zarobku tutaj omówimy tylko ten legalny
 
-## Kamienie
+## Kamienie i Drzewa
 
-## Drzewa
+#### Kamienie 
+
+#### Drzewa
+
+## Krzaki
+
+## Śmietniki
 
 ## Prace
