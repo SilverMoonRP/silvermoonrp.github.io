@@ -8,14 +8,20 @@ sidebar_position: 2
 
 Na serwerze SilverMoonRP jest wiele opcji zarobku tutaj omówimy tylko ten legalny
 
-## Kamienie i Drzewa
+## Prace dorywcze
 
 #### Kamienie 
 
 #### Drzewa
 
-## Krzaki
+#### Polowanie
 
-## Śmietniki
+#### Krzaki
 
 ## Prace
+
+### Taxi
+
+### Tiry
+
+### Kurier
