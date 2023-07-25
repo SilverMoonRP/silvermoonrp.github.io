@@ -28,7 +28,7 @@ sidebar_position: 1
 Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potraficie strzelać.
 - 2.8 Nagminne oraz nieprawidłowe użycie „ Z” będzie karane banem.
 - 2.9 Zakazuję się używania p – wordów  `ped*ł`, n – wordów  `nig*er`, c - wordów `czar**ch`, `c**l` itd oraz wszelakich słów obrażających odnośnie rasy, koloru skóry itp. Złamanie tej zasady będzie surowo karane.
-- 2.10 Wbijanie na 3 podczas akcji RP zostanie ukarane banem (Nie obowiązuje stref czerwonych).
+- 2.10 Wbijanie na 3 podczas akcji RP zostanie ukarane banem (Nie obowiązuje `sklepów` w strefach czerwonych).
 - 2.11 Zakazuję się stosowania Trash talku.
 
 ## 3. Komunikacja głosowa / narracja:
