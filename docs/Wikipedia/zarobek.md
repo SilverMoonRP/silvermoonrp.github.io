@@ -21,6 +21,11 @@ Na serwerze SilverMoonRP jest wiele opcji zarobku tutaj omówimy tylko ten legal
 ## Prace
 
 ### Taxi
+- Pojedz do cardealera
+- Kup taxi
+- Kliknij F6
+- Rozpocznij kurs
+- Poczekaj na klientów
 
 ### Tiry
 

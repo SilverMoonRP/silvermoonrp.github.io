@@ -24,6 +24,7 @@ sidebar_position: 3
 | Skrzynka Lokalnych 5|    25 zł  | `Coquette Classic`, `Coquette D10`, `Trophy Truck`, `Elegy RH8`, `Feltzer`|
 | Skrzynka Import 9|    25 zł  | `ToTota Supra GR`, `Burango`, `Bissan Silvia S15 Rocket Bunny`, `AuBi RS 3`, `ToTota Tacoma`|
 | Skrzynka Broni 2       |    40 zł  |`4x Glock`,`4x HeavyPistol`, `4x Deagle`|
+| Custom malowanie AK47       |    80 zł  |Więcej inforamcji `ticket!`|
 
 
 
