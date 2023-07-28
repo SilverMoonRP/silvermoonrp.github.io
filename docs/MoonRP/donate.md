@@ -12,20 +12,9 @@ sidebar_position: 3
 
 | Nowości             |  Kwota    |  Informacje |
 |------------         |-----------|--------|
-| [Promocja] Custom rejestracja pojazdu|    10 zł  | Musi być 8 znaków spacja się również liczy|
-| [Promocja] Custom nummer telefonu|    10 zł  |  |
-| Skrzynka Broni dlugiej|    150 zł  | 2x `AKS`,`UZI`,`Micro SMG`,`AK47`,|
-| Skrzynka Broni dlugiej 2|    150 zł  | 2x `SMG`, `Gusenberg`, `Dwururka`, `M4A1`|
-| Wnetrze domku|    10 zł  | Zmiana wnetrza domku|
-| Skrzynka Lokalnych 1|    25 zł  | `Eleghy`, `Gauntlet Hellfire`, `Infernus`, `Kuruma`, `Mamba`|
-| Skrzynka Lokalnych 2|    25 zł  | `Lectro`, `Massacro`, `Monroe`, `Hermes`, `Nero`|
-| Skrzynka Lokalnych 3|    25 zł  | `Penetrator`, `Reaper`, `Ruiner`, `Slamvan Custom`, `Stinger`|
-| Skrzynka Lokalnych 4|    25 zł  | `10F Widebody`, `Ardent`, `Banshee 900R`, `Rebla`, `Comet S2`|
-| Skrzynka Lokalnych 5|    25 zł  | `Coquette Classic`, `Coquette D10`, `Trophy Truck`, `Elegy RH8`, `Feltzer`|
-| Skrzynka Import 9|    25 zł  | `ToTota Supra GR`, `Burango`, `Bissan Silvia S15 Rocket Bunny`, `AuBi RS 3`, `ToTota Tacoma`|
 | Skrzynka Broni 2       |    40 zł  |`4x Glock`,`4x HeavyPistol`, `4x Deagle`|
 | Custom malowanie AK47       |    80 zł  |Więcej inforamcji `ticket!`|
-
+| x500 kamyki       |    10 zł  ||
 
 
 :::note po Donate
@@ -51,8 +40,11 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Slot na postać|    20 zł          |  |
 | +100kg w szafce ORGANIZACJI|    20 zł  |  |
 | +10 slotów w szafce ORGANIZACJI|    20 zł  |  |
+| Wnetrze domku|    10 zł  | Zmiana wnetrza domku|
 | Przeniesienie miejsca szafki|    20 zł  | Postawienie oraz Pierwsze przeniesienie jest darmowe! |
 | Skrzynka Broni        |    25 zł  |`5x SNSPistol`, `5x Pistol`, `5x Glock`, `5x VintagePistol`,`5x HeavyPistol`, `5x Deagle`|
+| Skrzynka Broni dlugiej|    150 zł  | 2x `AKS`,`UZI`,`Micro SMG`,`AK47`,|
+| Skrzynka Broni dlugiej 2|    150 zł  | 2x `SMG`, `Gusenberg`, `Dwururka`, `M4A1`|
 | Skrzynka Import 1     |    25 zł  |`Drafter Wide Body`, `Wercedes-Denz CLS`, `BWw m4`, `McLaen P1`, `BWW M4 GTS`|
 | Skrzynka Import 2     |    25 zł  |`Wercedes AMG G65`, `Wercedes Denz McL`, `AuBi R8`, `Bissan 240SX`, `GTR RHD`|
 | Skrzynka Import 3     |    25 zł  |`Dentley Dentayga`, `Corvette c7`, `Wercedes AMG gtc`, `ToTota Supra MK4`, `Rerrari LB 488`|
@@ -61,12 +53,18 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Skrzynka Import 6     |    25 zł  |`Evo LaMcer mr 9`, `Goif mk7`, `Wercedes gt63`, `Wazda RX7, Borsche Banamera`|
 | Skrzynka Import 7     |    25 zł  |`Wercedes AMG G65`, `Rerrari Pista Spider`, `Borsche GT 2 RWB`, `Borsche GT3 RS`, `Qlfa RoWeo Julia`|
 | Skrzynka Import 8     |    25 zł  |`Bissan gtr`, `Bissan gtr Rocket bunny`, `Witsubishi Evo Lancer X`, `BWW M4 Competition`, `Borsche Banamera`|
+| Skrzynka Import 9|    25 zł  | `ToTota Supra GR`, `Burango`, `Bissan Silvia S15 Rocket Bunny`, `AuBi RS 3`, `ToTota Tacoma`|
 | Skrzynka Bissan       |    30 zł  |`Bissan GTR RHD`, `Bissan Skyline R34`, `Bissan Skyline R33`,  `Bissan 240SX`, `Bissan 180SX`|
 | Skrzynka AuBi         |    30 zł  |`AuBi rs6`, `AuBi RS 7`, `AuBi RS 5`, `AuBi R8`, `AuBi RS6 C8`|
 | Skrzynka BWW          |    30 zł  |`BWW e36`, `BWW X5`, `BWW M5 f90`, `BWW M4 Competition`, `BWW M4 GTS`|
 | Skrzynka A+      |    30 zł  |`Elegy`, `Witsubishi Evolution`, `AuBi RS 7`, `Bissan Silvia 15`, `ToTota Supra MK4`|
 | Skrzynka S      |    40 zł  |`Elegy RH 7`, `Bissan GTR`, `BWW M4`, `Bissan Skyline R33`, `Wazda RX7`|
 | Skrzynka S+      |    50 zł  |`Thrax`, `BWW m8`, `LamDorghini AventadBor`, `Dentley Continental 2017`, `Rerrari Pista Spider`|
+| Skrzynka Lokalnych 1|    25 zł  | `Eleghy`, `Gauntlet Hellfire`, `Infernus`, `Kuruma`, `Mamba`|
+| Skrzynka Lokalnych 2|    25 zł  | `Lectro`, `Massacro`, `Monroe`, `Hermes`, `Nero`|
+| Skrzynka Lokalnych 3|    25 zł  | `Penetrator`, `Reaper`, `Ruiner`, `Slamvan Custom`, `Stinger`|
+| Skrzynka Lokalnych 4|    25 zł  | `10F Widebody`, `Ardent`, `Banshee 900R`, `Rebla`, `Comet S2`|
+| Skrzynka Lokalnych 5|    25 zł  | `Coquette Classic`, `Coquette D10`, `Trophy Truck`, `Elegy RH8`, `Feltzer`|
 | Skrzynka Cardealer      |    10 zł  |Znizka na pojazd z cardealera od 10% do 25%|
 | Awans w PD      |    30 zł  | 1 Ranga w góre|
 | Własna szafka|    50 zł  |   Podstawa 100kg do max 150kg za opłatą   |
