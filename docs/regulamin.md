@@ -175,9 +175,14 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 10.8 Zakazuje się zabijania funkcjonariuszy publicznych na służbie jeżeli nie jesteś poszukiwany oraz nie ma pościgu za tobą.
 - 10.9 Za wybryki jednego członka organizacji odpowiada cała ekipa.
 
-## 11. Dodatkowe reguły:
+## 11. Wojny organizacji:
 
-- 11.1 Administrator nie ma prawa wykorzystywania rangi w celu przewagi w grze.
+- 10.1 Zakaz wodowania pojazdów
+- 10.2 Zabrania sie nachalnego dążenia do kolejnej walki po skonczonej walce
+
+## 12. Dodatkowe reguły:
+
+- 12.1 Administrator nie ma prawa wykorzystywania rangi w celu przewagi w grze.
 
 
 ## Zielone strefy, miejsca publiczne oraz czerwone strefy
