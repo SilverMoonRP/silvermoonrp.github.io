@@ -127,7 +127,7 @@ Crime nie może prowokować policji większą grupą niz policjantów na służb
 A. Lekarz – bandaży, apteczek itp.
 B. Funkcjonariusz – pistoletów, tazerów itp.
 - 7.3 LSPD nie ma prawa zatrzymać obywatela/obywatelkę po BW jeżeli odrodziła się ona w szpitalu poprzez wykrwawienie CZYLI NIE KLIK [E].
-- 7.4 Aby móc porwać EMS na napad musi być minimum 4 EMS na służbie. Jednak nie mogą oni odnieść żadnych obrażeń chyba że nie będą szanować swojego życia.  
+- 7.4 Aby móc porwać EMS musi być minimum 4 EMS na służbie. Jednak nie mogą oni odnieść żadnych obrażeń chyba że nie będą szanować swojego życia.  
 - 7.5 Aby porwać policjanta na służbie musi być minimum 4 innych policjantów czyli łącznie 5 LSPD. Wyjątkiem jest jeżeli policjant sam prowokuje do tego.
 - 7.6 Szpital jest jednym z ważniejszych miejsc na serwerze i należy szanować pracę lekarzy ( zachowując się kulturalnie i nie utrudniając pracy ) tyczy się to wszystkich osób przebywających na szpitalu. W momencie kiedy ktoś nie zastosuje się do tego podpunktu EMS lub LSPD ma prawo wyrzucić daną osobę i ukarać pieniężnie.
 - 7.7 Komenda policji jest również jednym z ważniejszych miejsc na serwerze i należy szanować pracę policji ( zachowując się kulturalnie i nie utrudniając im pracy) tyczy się to wszystkich osób przebywających na terenie komendy. W momencie kiedy ktoś nie zastosuje się do tego podpunktu LSPD ma prawo wyrzucić taką osobę i ukarać ją grzywną.
