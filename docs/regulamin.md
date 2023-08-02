@@ -177,8 +177,8 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 
 ## 11. Wojny organizacji:
 
-- 10.1 Zakaz wodowania pojazdów
-- 10.2 Zabrania sie nachalnego dążenia do kolejnej walki po skonczonej walce
+- 11.1 Zakaz wodowania pojazdów
+- 11.2 Zabrania sie nachalnego dążenia do kolejnej walki po skonczonej walce
 
 ## 12. Dodatkowe reguły:
 
