@@ -53,7 +53,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 4.4 Nick ze steama i discorda powinien być taki sam lub podobny.
 - 4.5 Zakazuję się komunikowania poza grą czyli na discordzie, TS lub innych komunikatorach jeżeli aktualnie znajdujemy się na serwerze.
 - 4.6 Opuszczenie rządowego gdy sprawa nie została jeszcze rozwiązana może skutkować banem.
-- 4.7 Udostępnianie zdjęć, imion, nazwisk, miejsc zamieszkania itd osob 3 bedzie karane banem.
+- 4.7 Udostępnianie zdjęć, imion, nazwisk, miejsc zamieszkania, nummerów telefonu itd osob 3 bedzie karane banem.
 
 
 ## 5. Postacie:
