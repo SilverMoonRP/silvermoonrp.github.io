@@ -49,10 +49,12 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 4.1 W momencie kiedy Administrator widzi łamanie zasad regulaminu ma prawo wezwać gracza na kanał discorda w celu wyjaśnienia sytuacji.
 - 4.1.1 Każdy wezwany przez administratora musi stawić się na kanał discorda.
 - 4.2 Zakazuję się nagrywania rozmów na kanałach discorda.
-- 4.3  Zwołanie rządowego jest możliwe dopiero po zakończeniu danej akcji RP. W przypadku oskarżenia innego gracza przez gracza należy przedstawić konkretne dowody w postaci screena lub filmiku.
+- 4.3 Zwołanie rządowego jest możliwe dopiero po zakończeniu danej akcji RP. W przypadku oskarżenia innego gracza przez gracza należy przedstawić konkretne dowody w postaci screena lub filmiku.
 - 4.4 Nick ze steama i discorda powinien być taki sam lub podobny.
 - 4.5 Zakazuję się komunikowania poza grą czyli na discordzie, TS lub innych komunikatorach jeżeli aktualnie znajdujemy się na serwerze.
 - 4.6 Opuszczenie rządowego gdy sprawa nie została jeszcze rozwiązana może skutkować banem.
+- 4.7 Udostępnianie zdjęć, imion, nazwisk, miejsc zamieszkania itd osob 3 bedzie karane banem.
+
 
 ## 5. Postacie:
 
