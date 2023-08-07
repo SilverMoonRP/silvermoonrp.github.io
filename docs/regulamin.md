@@ -14,6 +14,7 @@ sidebar_position: 1
 - 1.6 Zarząd ma prawo usunąć z serwera i discorda osoby które działają na ich niekorzyść bez żadnego wyjaśnienia.
 - 1.7 Serwer powstał abyśmy wspólnie spędzali czas poprzez zabawę i odgrywanie RP.
 - 1.8 Wszelkie konflikty i spory rozwiązujemy z szacunkiem do siebie.
+- 1.9 Podszywanie się pod administracje będzie karane banem.
 
 ## 2. Zasady ogólne:
 
