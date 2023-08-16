@@ -206,6 +206,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - Produkcja i przetwórnia narkotyków.
 - Dark Shop
 - Miejsca w które spadł zrzut
+- Miejsca sprzedaży broni/narko i innych nielegalnych rzeczy
 
 
 ## Pojęcia RP które musisz znać
