@@ -14,10 +14,8 @@ sidebar_position: 3
 |------------         |-----------|--------|
 | Skrzynka Broni 2      |    40 zł  |`4x Glock`,`4x HeavyPistol`, `4x Deagle`|
 | Custom malowanie AK47 |    80 zł  |Więcej inforamcji `ticket!`|
-| x500 kamyki           |    10 zł  ||
+| x350 kamyki           |    10 zł  ||
 | Własny interior       |    50 zł Miesiecznie |(interior dajesz ty)|
-
-
 
 :::note po Donate
 zgloś się na [Ticket](https://discord.com/channels/818576305514741781/1018447393227817050/1018451362566131762) aby odebrać nagrodę
