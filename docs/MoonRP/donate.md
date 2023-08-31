@@ -43,8 +43,6 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Wnetrze domku|    10 zł  | Zmiana wnetrza domku|
 | Przeniesienie miejsca szafki|    20 zł  | Postawienie oraz Pierwsze przeniesienie jest darmowe! |
 | Skrzynka Broni        |    25 zł  |`5x SNSPistol`, `5x Pistol`, `5x Glock`, `5x VintagePistol`,`5x HeavyPistol`, `5x Deagle`|
-| Skrzynka Broni dlugiej|    150 zł  | 2x `AKS`,`UZI`,`Micro SMG`,`AK47`,|
-| Skrzynka Broni dlugiej 2|    150 zł  | 2x `SMG`, `Gusenberg`, `Dwururka`, `M4A1`|
 | Skrzynka Import 1     |    25 zł  |`Drafter Wide Body`, `Wercedes-Denz CLS`, `BWw m4`, `McLaen P1`, `BWW M4 GTS`|
 | Skrzynka Import 2     |    25 zł  |`Wercedes AMG G65`, `Wercedes Denz McL`, `AuBi R8`, `Bissan 240SX`, `GTR RHD`|
 | Skrzynka Import 3     |    25 zł  |`Dentley Dentayga`, `Corvette c7`, `Wercedes AMG gtc`, `ToTota Supra MK4`, `Rerrari LB 488`|
@@ -83,3 +81,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 Ze Skrzynki dostaniesz tylko 1 z wymienionych
 :::
 
+
+
+<!-- | Skrzynka Broni dlugiej|    150 zł  | 2x `AKS`,`UZI`,`Micro SMG`,`AK47`,|
+| Skrzynka Broni dlugiej 2|    150 zł  | 2x `SMG`, `Gusenberg`, `Dwururka`, `M4A1`| -->
