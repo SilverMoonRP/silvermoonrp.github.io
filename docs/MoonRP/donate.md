@@ -12,9 +12,8 @@ sidebar_position: 3
 
 | Nowości             |  Kwota    |  Informacje |
 |------------         |-----------|--------|
-| Skrzynka Broni 2      |    40 zł  |`4x Glock`,`4x HeavyPistol`, `4x Deagle`|
 | x400 kamyki           |    10 zł  ||
-| Własny interior       |    50 zł Miesiecznie |(interior dajesz ty)|
+| Zmiana handlingu      |    20 zł  | na Drift lub odwrotnie (Tylko limitki)|
 
 :::note po Donate
 zgloś się na [Ticket](https://discord.com/channels/818576305514741781/1018447393227817050/1018451362566131762) aby odebrać nagrodę
@@ -27,7 +26,6 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Trzecia Limitka i kolejna| 200 zł | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Zamiana Limitki       |    40 zł  | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Limitka szybciej      |    25 zł  | Gdy zakupisz limitke za 50zł i dokupisz tą opcje to masz ją w ciągu 2/4 restartow serwera|
-| Zmiana handlingu      |    20 zł  | na Drift lub odwrotnie (Tylko limitki)|
 | unban za cheat        |    200 zł |  |
 | unban z 31-perm         |    70 zł  |  |
 | unban 15-30dni           |    30 zł  |  |
@@ -43,6 +41,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Wnetrze domku|    10 zł  | Zmiana wnetrza domku|
 | Przeniesienie miejsca szafki|    20 zł  | Postawienie oraz Pierwsze przeniesienie jest darmowe! |
 | Skrzynka Broni        |    25 zł  |`5x SNSPistol`, `5x Pistol`, `5x Glock`, `5x VintagePistol`,`5x HeavyPistol`, `5x Deagle`|
+| Skrzynka Broni 2      |    40 zł  |`4x Glock`,`4x HeavyPistol`, `4x Deagle`|
 | Skrzynka Import 1     |    25 zł  |`Drafter Wide Body`, `Wercedes-Denz CLS`, `BWw m4`, `McLaen P1`, `BWW M4 GTS`|
 | Skrzynka Import 2     |    25 zł  |`Wercedes AMG G65`, `Wercedes Denz McL`, `AuBi R8`, `Bissan 240SX`, `GTR RHD`|
 | Skrzynka Import 3     |    25 zł  |`Dentley Dentayga`, `Corvette c7`, `Wercedes AMG gtc`, `ToTota Supra MK4`, `Rerrari LB 488`|
@@ -72,6 +71,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
 | Własna firma |    100+ zł  | Firma której nie ma na serwerze |
 | Interior |    200+ zł  | Cena Zależna od wielkości oraz optymalizacji interioru (interior dajesz ty)|
+| Własny interior       |    50 zł Miesiecznie |(interior dajesz ty)|
 | Helikopter na własność      |    500 zł  |    + licencja   |
 | Paczka SilverMoonRP|    1000 zł  |  |
 
