@@ -72,6 +72,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Własna firma |    100+ zł  | Firma której nie ma na serwerze |
 | Interior |    200+ zł  | Cena Zależna od wielkości oraz optymalizacji interioru (interior dajesz ty)|
 | Własny interior       |    50 zł Miesiecznie |(interior dajesz ty)|
+| Custom Ubranie|    50 zł  | Ty dajesz ubranie!|
 | Helikopter na własność      |    500 zł  |    + licencja   |
 | Paczka SilverMoonRP|    1000 zł  |  |
 
