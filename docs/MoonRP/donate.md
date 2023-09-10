@@ -14,6 +14,7 @@ sidebar_position: 3
 |------------         |-----------|--------|
 | x400 kamyki           |    10 zł  ||
 | Zmiana handlingu      |    20 zł  | na Drift lub odwrotnie (Tylko limitki)|
+| Skrzynka Broni 3      |    40 zł  |`4x Vintage Pistol`,`4x Beretta`, `4x Ceramic pistol`|
 
 :::note po Donate
 zgloś się na [Ticket](https://discord.com/channels/818576305514741781/1018447393227817050/1018451362566131762) aby odebrać nagrodę
