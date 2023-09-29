@@ -109,7 +109,7 @@ Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
 
 - 7.1 Gdy przeciwna frakcja robi napad Frakcja broniąca musi podjąć decyzje natychmiastowo oraz przekazać ją napastnikom czy chce robić wjazd czy zezwolić odjechac oraz udać sie w pogoń za napastnikami
 - 7.2 Zakaz Sojuszu między frakcjami (chodzi tutaj o robienie nielegalki za darmo / może skutkować banem)
-- 7.2 Zakaz Sojuszu między frakcjami ()
+- 7.2 
 
 ## 8. Rany postaci / Character Kill:
 
