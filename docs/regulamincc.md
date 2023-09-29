@@ -24,24 +24,22 @@ sidebar_position: 1
 - 2.4 Zmiany wyglądu odnośnie rysów twarzy oraz zmiany dotyczące danych osobowych muszą zostać uzgodnione z Administracją serwera.
 - 2.5 Każde twoje wejście na serwer jest równoznaczne z wcieleniem się w swoją postać.
 - 2.5.1 Odgrywaj emocje które w realnym świecie towarzyszą ci podczas sytuacji w których się znajdujesz. Np przerażenie, zdenerwowanie itp.
-- 2.6 Aby otrzymać "revive" gdy nie ma EMS na służbie należy odegrać Panią Basie w szpitalu. W innym przypadku nie otrzymasz revive! 
-- 2.7 Nieprawidłowe używanie chatu LOC OOC oraz jego nadużywanie będzie karane banem.
+- 2.6 Nieprawidłowe używanie chatu LOC OOC oraz jego nadużywanie będzie karane banem.
 Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potraficie strzelać.
-- 2.8 Nagminne oraz nieprawidłowe użycie „ Z” będzie karane banem.
-- 2.9 Zakazuję się używania p – wordów  `ped*ł`, n – wordów  `nig*er`, c - wordów `czar**ch`, `c**l` itd oraz wszelakich słów obrażających odnośnie rasy, koloru skóry itp. Złamanie tej zasady będzie surowo karane.
-- 2.10 Wbijanie na 3 podczas akcji RP zostanie ukarane banem (Nie obowiązuje `sklepów` w strefach czerwonych).
-- 2.11 Zakazuję się stosowania Trash talku.
+- 2.7 Nagminne oraz nieprawidłowe użycie „ Z” będzie karane banem.
+- 2.8 Zakazuję się używania p – wordów  `ped*ł`, n – wordów  `nig*er`, c - wordów `czar**ch`, `c**l` itd oraz wszelakich słów obrażających odnośnie rasy, koloru skóry itp. Złamanie tej zasady będzie surowo karane.
+- 2.9 Wbijanie na 3 podczas akcji RP zostanie ukarane banem (Nie obowiązuje `sklepów` w strefach czerwonych).
+- 2.10 Zakazuję się stosowania Trash talku.
 
 ## 3. Komunikacja głosowa / narracja:
 
 - 3.1 Musisz posiadać sprawnie działający mikrofon, bez mikrofonu nie możesz uczestniczyć w rozgrywce.
 - 3.2 Akcje wykraczające poza możliwości skryptowe serwera należy odgrywać za pomocą komend: /me i /do.
 - 3.3 Kłamanie na /do jest surowo zabronione. Używając komendy /do piszemy tylko i wyłącznie prawdę!
-- 3.4 Jeżeli broń długą nosimy w torbie ( posiadamy torbę) nie musimy odgrywać wyciągania broni za pomocą komendy /me. W przypadku LSPD torba nie jest wymagana.
-- 3.5 Dozwolone jest używanie modulatora ( w momencie gdy jesteś zamaskowany ) jeśli brzmi on naturalnie.
-- 3.6 Zakazuje się odgrywania akcji z wyrzucaniem broni po postrzale za pomocą komend narracyjnych /me i /do. Wszystko co masz w ekwipunku po postrzale JEST W TYM EKWIPUNKU!
-- 3.7 Zakazuję się odgrywania braku dowodu osobistego.
-- 3.8 Komendy narracyjne stosowane na serwerze:
+- 3.4 Dozwolone jest używanie modulatora ( w momencie gdy jesteś zamaskowany ) jeśli brzmi on naturalnie.
+- 3.5 Zakazuje się odgrywania akcji z wyrzucaniem broni po postrzale za pomocą komend narracyjnych /me i /do. Wszystko co masz w ekwipunku po postrzale JEST W TYM EKWIPUNKU!
+- 3.6 Zakazuję się odgrywania braku dowodu osobistego.
+- 3.7 Komendy narracyjne stosowane na serwerze:
 /me - opisuje czynności wykonywane przez naszą postać
 /do - opisuje stan otoczenia ( na /do nie można kłamać)
 
@@ -59,7 +57,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 
 ## 5. Postacie:
 
-- 5.1 Na naszym serwerze możesz posiadać dwie postacie / za dotacje można odblokować więcej.
+- 5.1 Na naszym serwerze możesz posiadać jedną postać / za dotacje można odblokować więcej.
 - 5.2 Zakazuje się używania imion i nazwisk sławnych osób.
 - 5.3 Każda postać musi mieć realny wygląd.
 - 5.4 Zakazuje się odgrywania osób psychicznie chorych.
@@ -109,7 +107,7 @@ Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
 
 - 7.1 Gdy przeciwna frakcja robi napad Frakcja broniąca musi podjąć decyzje natychmiastowo oraz przekazać ją napastnikom czy chce robić wjazd czy zezwolić odjechac oraz udać sie w pogoń za napastnikami
 - 7.2 Zakaz Sojuszu między frakcjami (chodzi tutaj o robienie nielegalki za darmo / może skutkować banem)
-- 7.2 
+- 7.3 Dopóki ktoś nie zrobi nic nielegalnego na twoim terenie nie możesz go zabić bez powodu! (to że ktoś zrobił napad wczesniej ale ci sie nie udało również nie jest powodem)
 
 ## 8. Rany postaci / Character Kill:
 
@@ -124,12 +122,10 @@ Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
 ## 9. Pojazdy i przedmioty:
 
 - 9.1 Na serwerze nie obowiązuje FD. Masz prawo do tego by poruszać się sportowym pojazdem po terenie górzystym.
-- 9.2 Zakazuje się kradzieży pojazdów frakcyjnych (LSPD, EMS). Odstąpieniem od tej zasady jest akcja RP (napady tymi samochodami skończą się zerwaniem negocjacji niezależnie od ilośći zakładników). 
-- 9.3 Przedmioty w ekwipunku postaci lub dowolnym miejscu przeznaczonym do ich przechowywania, są tam fizycznie w każdej sytuacji. 
-- 9.4 Przedmioty oskryptowane nie mogą zostać odegrane na /me w przypadku braku ich posiadania. Nie można także ukrywać ich w najdziwniejszych miejscach na siłę przy pomocy narracji.
-- 9.5 Nie możesz wykorzystać przedmiotów które nie mają fizycznej lub wizualnej interakcji czyli nie możesz zrobić: "/me przykłada szlifierke do gardła policjanta" itd.
-- 9.6 Pojazdy które są używane nie zgodnie z regulaminem mogą zostać usunięte.
-- 9.7 Pojazdy które zostaną wyciągnięte z garażu po tym jak LSPD zabierze je na parking policyjny bez uiszczenia opłaty za parking policyjny zostaną na stałe odebrane właścicielom.
+- 9.2 Przedmioty w ekwipunku postaci lub dowolnym miejscu przeznaczonym do ich przechowywania, są tam fizycznie w każdej sytuacji. 
+- 9.3 Przedmioty oskryptowane nie mogą zostać odegrane na /me w przypadku braku ich posiadania. Nie można także ukrywać ich w najdziwniejszych miejscach na siłę przy pomocy narracji.
+- 9.4 Nie możesz wykorzystać przedmiotów które nie mają fizycznej lub wizualnej interakcji czyli nie możesz zrobić: "/me przykłada szlifierke do gardła policjanta" itd.
+- 9.5 Pojazdy które są używane nie zgodnie z regulaminem mogą zostać usunięte.
 
 ## 10. Organizacje:
 
