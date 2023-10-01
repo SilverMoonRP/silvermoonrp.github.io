@@ -109,6 +109,7 @@ Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
 - 7.2 Zakaz Sojuszu między frakcjami (chodzi tutaj o robienie nielegalki za darmo / może skutkować banem)
 - 7.3 Dopóki ktoś nie zrobi nic nielegalnego na twoim terenie nie możesz go zabić bez powodu! (to że ktoś zrobił napad wczesniej ale ci sie nie udało również nie jest powodem)
 - 7.4 Napastnicy nie mogą zerwać negocjacji i rozpocząć strzelaniny!
+- 7.5 Gdy Odbijajacy zdecyduja się na wjazd po 10 minutach musza zaczać grać agresywniej i wejść do środka!
 
 ## 8. Rany postaci / Character Kill:
 
