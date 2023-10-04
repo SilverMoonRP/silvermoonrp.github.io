@@ -59,7 +59,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Własny interior       |    50 zł Miesiecznie |(interior dajesz ty)|
 | Custom Ubranie|    50 zł  | Ty dajesz ubranie!|
 | Helikopter na własność      |    500 zł  |    + licencja   |
-| Paczka SilverMoonRP|    1000 zł  |  |
+| Paczka SilverMoonCC|    1500 zł  |  |
 
 
 
