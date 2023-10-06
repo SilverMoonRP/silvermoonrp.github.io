@@ -16,8 +16,9 @@ Zamysł serwera czyli jak powinno to wyglądać podczas napadów po stronie obro
 
 Strona Napastników
 - Jedziesz na napad z ziomeczkami
-- Jeżeli nie podjedzie nikt Czekasz określona liczbe minut podana w [Regulamin](../regulamincc.md) końcówka punktu 6 
-- 
+- Jeżeli nie podjedzie nikt jestes zmuszony do Czekania określona liczbe minut podana w [Regulamin](../regulamincc.md) końcówka punktu 6 
+- Gdy obrońcy podjadą to oni decydują co zrobią a maja dwie opcje podane wyżej
+- Jako napastnik musisz sie pogodzić z robieniem tego co obrońcy zdecydują oraz nie możesz zerwać negocjacji
 ## Poziomy
 
 Poziomy na serwerze wbija się poprzez pracowanie legalnie, robienie misji lub nielegalne rzeczy opisane w [Crime](../MoonRP/crime.md).
