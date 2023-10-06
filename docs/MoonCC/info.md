@@ -5,7 +5,8 @@ sidebar_position: 2
 # Ogólne Informacje
 
 ## Crime vs Crime 
-Zamysł serwera czyli jak powinno to wyglądać podczas napadów po stronie obrońców
+Zamysł serwera czyli jak powinno to wyglądać podczas napadów
+Obrońcy:
 - Otrzymujesz powiadomienie o napadnie
 - jedziesz na napad
 - Napastnicy czekaja na negocjacje
@@ -14,7 +15,7 @@ Zamysł serwera czyli jak powinno to wyglądać podczas napadów po stronie obro
 - 1 Gonić jak policja i dobrze sie bawić
 - 2 Dać 10 sekund i zrobić wjazd
 
-Strona Napastników
+Napastnicy:
 - Jedziesz na napad z ziomeczkami
 - Jeżeli nie podjedzie nikt jestes zmuszony do Czekania określona liczbe minut podana w [Regulamin](../regulamincc.md) końcówka punktu 6 
 - Gdy obrońcy podjadą to oni decydują co zrobią a maja dwie opcje podane wyżej
