@@ -4,6 +4,20 @@ sidebar_position: 2
 
 # Ogólne Informacje
 
+## Crime vs Crime 
+Zamysł serwera czyli jak powinno to wyglądać podczas napadów po stronie obrońców
+- Otrzymujesz powiadomienie o napadnie
+- jedziesz na napad
+- Napastnicy czekaja na negocjacje
+- Wchodzisz do banku/sklepu z zamiarem negocjacji
+- Jako Obrońcy decydujecie co macie zamiar zrobic 
+- 1 Gonić jak policja i dobrze sie bawić
+- 2 Dać 10 sekund i zrobić wjazd
+
+Strona Napastników
+- Jedziesz na napad z ziomeczkami
+- Jeżeli nie podjedzie nikt Czekasz określona liczbe minut podana w [Regulamin](../regulamincc.md) końcówka punktu 6 
+- 
 ## Poziomy
 
 Poziomy na serwerze wbija się poprzez pracowanie legalnie, robienie misji lub nielegalne rzeczy opisane w [Crime](../MoonRP/crime.md).
