@@ -43,7 +43,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Przeniesienie miejsca szafki|    20 zł  | Postawienie oraz Pierwsze przeniesienie jest darmowe! |
 | Skrzynka Broni        |    25 zł  |`5x SNSPistol`, `5x Pistol`, `5x Glock`, `5x VintagePistol`,`5x HeavyPistol`, `5x Deagle`|
 | Skrzynka Broni 2      |    40 zł  |`4x Glock`,`4x HeavyPistol`, `4x Deagle`|
-| Skrzynka Lokalnych 1|    25 zł  | `Eleghy`, `Gauntlet Hellfire`, `Infernus`, `Kuruma`, `Mamba`|
+| Skrzynka Lokalnych 1|    25 zł  | `Elegy Retro`, `Gauntlet Hellfire`, `Infernus`, `Kuruma`, `Mamba`|
 | Skrzynka Lokalnych 2|    25 zł  | `Lectro`, `Massacro`, `Monroe`, `Hermes`, `Nero`|
 | Skrzynka Lokalnych 3|    25 zł  | `Penetrator`, `Reaper`, `Ruiner`, `Slamvan Custom`, `Stinger`|
 | Skrzynka Lokalnych 4|    25 zł  | `10F Widebody`, `Ardent`, `Banshee 900R`, `Rebla`, `Comet S2`|
