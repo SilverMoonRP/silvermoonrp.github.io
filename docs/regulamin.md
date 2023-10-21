@@ -169,6 +169,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 9.5 Nie możesz wykorzystać przedmiotów które nie mają fizycznej lub wizualnej interakcji czyli nie możesz zrobić: "/me przykłada szlifierke do gardła policjanta" itd.
 - 9.6 Pojazdy które są używane nie zgodnie z regulaminem mogą zostać usunięte.
 - 9.7 Pojazdy które zostaną wyciągnięte z garażu po tym jak LSPD zabierze je na parking policyjny bez uiszczenia opłaty za parking policyjny zostaną na stałe odebrane właścicielom.
+- 9.8 Pojazdy limitowane Sprzedane/Oddane nie zostaną już odzyskane.
 
 ## 10. Organizacje:
 

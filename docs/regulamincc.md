@@ -129,6 +129,7 @@ Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
 - 9.3 Przedmioty oskryptowane nie mogą zostać odegrane na /me w przypadku braku ich posiadania. Nie można także ukrywać ich w najdziwniejszych miejscach na siłę przy pomocy narracji.
 - 9.4 Nie możesz wykorzystać przedmiotów które nie mają fizycznej lub wizualnej interakcji czyli nie możesz zrobić: "/me przykłada szlifierke do gardła policjanta" itd.
 - 9.5 Pojazdy które są używane nie zgodnie z regulaminem mogą zostać usunięte.
+- 9.6 Pojazdy limitowane Sprzedane/Oddane nie zostaną już odzyskane.
 
 ## 10. Organizacje:
 
