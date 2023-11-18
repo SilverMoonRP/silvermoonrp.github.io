@@ -143,7 +143,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 7.8 Zakazuje się noszenia umundurowania LSPD bądź EMS jeżeli nie jest to powiązane z żadna akcja Roleplay.
 - 7.9 Obie frakcje podczas służby mają obowiązek nosić swoje mundury.
 - 7.10 Służby EMS nie operują osób w maskach. Każda osoba musi być rozpoznawalna.
-- 7.11 Ramowanie podczas pościgu jest dopuszczalne dopiero po 5 min. od rozpoczęcia pościgu. W przypadku gdy osoba jest poszukiwana obowiązują 2 minuty lub w przypadku nałożenia kodu czarnego lub czerwonego na pojazd jest to dozwolone od momentu nałożenia kodu na pojazd.
+- 7.11 Ramowanie podczas pościgu jest dopuszczalne dopiero po 5 min. od rozpoczęcia pościgu. W przypadku gdy osoba jest poszukiwana obowiązują 2 minuty lub w przypadku nałożenia kodu czarnego lub czerwonego na pojazd jest to dozwolone od momentu nałożenia kodu na pojazd, Policja może nałożyć kod w przypadku wjechania na budowe lub po skokach kaskaderskich.
 - 7.12 W momencie kiedy funkcjonariusz czuję się zagrożony ma prawo jako pierwszy oddać strzały w kierunku napastnika. Np. W momencie kiedy widzi stojącego obywatela z bronią długą w dłoni.
 - 7.13 Każdy gracz z chwilą zgłoszenia się na szpital bądź przewiezienia na szpital zobowiązany jest do odegrania całego medycznego RP z EMS aż do momentu wystawienia faktury przez EMS.
 - 7.14 Gdy LSPD złapie jednego z przestępców musi poczekac minimalnie 5 minut zanim zabierze go na komende
