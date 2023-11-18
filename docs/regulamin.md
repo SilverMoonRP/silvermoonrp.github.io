@@ -103,6 +103,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.27 Zakazuje się porywania i celowego zabierania na czerwona strefe aby zabić/zastraszać
 - 6.28 Zakazuje się wymuszania na innych graczach pracy dla wlasnych korzysci
 - 6.29 Zakazuje się jechania na siedzibe/garaż aby schować i wyciągnąć pojazd podczas poscigu
+- 6.30 Po nałożeniu kodu żółtego wszelkie negocjacje o naprawki/obrot pojazdu i tym podobne nie maja znaczenia.
 
 | Limity     |  Crime |   LSPD   | Czas oczekiwania na LSPD |
 |------------|--------|----------|-------|
