@@ -15,6 +15,7 @@ sidebar_position: 3
 | x400 kamyki           |    10 zł  ||
 | Zmiana handlingu      |    20 zł  | na Drift lub odwrotnie (Tylko limitki)|
 | Skrzynka Broni 3      |    40 zł  |`4x Vintage Pistol`,`4x Beretta`, `4x Ceramic pistol`|
+| Ekskluzywna Skrzynka Broni |    40 zł  |`3x Mini SMG`,`3x Revolver`, `3x Tec9`|
 | Yacht na własność     |    250 zł |      |
 
 :::note po Donate
