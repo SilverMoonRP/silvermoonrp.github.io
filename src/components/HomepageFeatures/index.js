@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '#1 Dontaor Eisu ',
+    title: '#1 Dontaor Arielo8899 ',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '#2 Dontaor Arielo8899 ',
+    title: '#2 Dontaor Eisu ',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
