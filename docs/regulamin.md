@@ -101,9 +101,10 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.25 Zakazuje się lootowania broni długiej z poległych funkcjonariuszy policji w sytuacji gdy CRIME nie użył broni długiej w akcji przed sytuacja w której było minimum 3 przytomnych funkcjonariuszy policji BIORĄCYCH UDZIAŁ W DANEJ AKCJI. Nie dotyczy WALKI O ZRZUT
 - 6.26 Zakazuje się celowego porywania bądź zabijania w celu kradzieży
 - 6.27 Po nałożeniu kodu żółtego wszelkie negocjacje o naprawki/obrot pojazdu i tym podobne nie maja znaczenia.
-- 6.28 Zakazuje się porywania i celowego zabierania na czerwona strefe aby zabić/zastraszać
-- 6.29 Zakazuje się wymuszania na innych graczach pracy dla wlasnych korzysci
-- 6.30 Zakazuje się jechania na siedzibe/garaż aby schować i wyciągnąć pojazd podczas poscigu
+- 6.28 Zakazuje się porywania i celowego zabierania na czerwona strefe aby zabić/zastraszać.
+- 6.29 Zakazuje się wymuszania na innych graczach pracy dla wlasnych korzysci.
+- 6.30 Zakazuje się jechania na siedzibe/garaż aby schować i wyciągnąć pojazd podczas poscigu.
+- 6.31 Przed zerwaniem negocjacji należy powiadomić strone przeciwna oraz dać im przynajmniej 10 sekund na reakcje.
 
 | Limity     |  Crime |   LSPD   | Czas oczekiwania na LSPD |
 |------------|--------|----------|-------|
