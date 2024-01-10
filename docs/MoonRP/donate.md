@@ -19,6 +19,10 @@ sidebar_position: 3
 | Yacht na własność     |    250 zł |      |
 | Skrzynka Policyjna      |    30 zł  |`Raptor`,`Charger`, `Explorer`, `Korvette c7`|
 | Skrzynka Policyjna2      |    30 zł  |`Krown Viktoria`,`Motor BWW`, `Challenger`, `Wustang`, `Bissan Tituan`|
+| Skrzynka Lore      |    30 zł  |`Jester RR custom`,`Celeste m5`, `Kawaii`, `Romero tuner`, `Emperor Sheava`|
+| Skrzynka Lore 2     |    30 zł  |`Jester a80`,`Elegy Heritage`, `Sultan Retro Classic`, `Uranus`, `ZR 350 x7`|
+| Skrzynka Lore 3     |    30 zł  |`Elegy classic`,`Dinka Nexus`, `Quada Type 66 Avenger`, `Lassiter V16 Roadster`, `ZR 350 custom`|
+
 
 :::note po Donate
 zgloś się na [Ticket](https://discord.com/channels/818576305514741781/1018447393227817050/1018451362566131762) aby odebrać nagrodę
