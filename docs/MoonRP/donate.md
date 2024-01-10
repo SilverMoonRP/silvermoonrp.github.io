@@ -17,6 +17,8 @@ sidebar_position: 3
 | Skrzynka Broni 3      |    40 zł  |`4x Vintage Pistol`,`4x Beretta`, `4x Ceramic pistol`|
 | Ekskluzywna Skrzynka Broni |    50 zł  |`3x Mini SMG`,`3x Revolver`, `3x Tec9`|
 | Yacht na własność     |    250 zł |      |
+| Skrzynka Policyjna      |    30 zł  |`Raptor`,`Charger`, `Explorer`, `Korvette c7`|
+| Skrzynka Policyjna2      |    30 zł  |`Krown Viktoria`,`Motor BWW`, `Challenger`, `Wustang`, `Bissan Tituan`|
 
 :::note po Donate
 zgloś się na [Ticket](https://discord.com/channels/818576305514741781/1018447393227817050/1018451362566131762) aby odebrać nagrodę
