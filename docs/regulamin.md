@@ -15,7 +15,8 @@ sidebar_position: 1
 - 1.7 Serwer powstał abyśmy wspólnie spędzali czas poprzez zabawę i odgrywanie RP.
 - 1.8 Wszelkie konflikty i spory rozwiązujemy z szacunkiem do siebie.
 - 1.9 Podszywanie się pod administracje będzie karane banem.
-- 2.0 Reklamowanie innego serwera skonczy sie banem.
+- 1.10 Reklamowanie innego serwera skonczy sie banem.
+- 1.11 Zgłosić gracza można w 24h od złamiania regulaminu inaczej jest to unieważnione.
 
 ## 2. Zasady ogólne:
 
