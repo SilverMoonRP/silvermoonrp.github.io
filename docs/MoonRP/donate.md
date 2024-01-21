@@ -7,7 +7,7 @@ sidebar_position: 3
 - Za dotacje można otrzymać różne nagrody
 
 :::info Promocja
- Vip na 30 dni za 50zł
+ 20% na wszystko
 :::
 
 | Nowości             |  Kwota    |  Informacje |
