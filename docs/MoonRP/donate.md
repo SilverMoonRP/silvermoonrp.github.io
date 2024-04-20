@@ -6,9 +6,9 @@ sidebar_position: 3
 - Dotacje można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/MilitaryNekoMaid1) lub [Blik](https://tipo.live/p/militarynekomaid)
 - Za dotacje można otrzymać różne nagrody
 
-:::info Promocja
+<!-- :::info Promocja
  20% na wszystko
-:::
+::: -->
 
 | Nowości             |  Kwota    |  Informacje |
 |------------         |-----------|--------|
@@ -80,8 +80,6 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Helikopter na własność      |    500 zł  |    + licencja   |
 | Yacht na własność     |    250 zł |      |
 | Paczka SilverMoonRP|    2000 zł  |  |
-
-
 
 :::danger Pamiętaj
 Ze Skrzynki dostaniesz tylko 1 z wymienionych
