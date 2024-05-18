@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoon_rp=self.webpackChunkmoon_rp||[]).push([[297],{1901:i=>{i.exports=JSON.parse('{"title":"Wikipedia","slug":"/category/wikipedia","permalink":"/docs/category/wikipedia","navigation":{"previous":{"title":"Dotacje","permalink":"/docs/MoonRP/donate"},"next":{"title":"MoonCoin","permalink":"/docs/Wikipedia/crafting"}}}')}}]);
