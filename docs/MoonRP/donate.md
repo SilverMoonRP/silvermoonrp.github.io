@@ -26,18 +26,18 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Zamiana Limitki       |    60 zł  | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Limitka szybciej      |    40 zł  | Gdy zakupisz limitke za 50zł i dokupisz tą opcje to masz ją w ciągu 2/4 restartow serwera|
 | unban za cheat        |    130 zł |  |
-| unban z 31-perm         |    80 zł  |  |
-| unban 15-30dni           |    40 zł  |  |
-| unban 8-14dni           |    30 zł  |  |
-| unban 1-7dni            |    20 zł  |  |
-| VIP?              |    60 zł  | [Kliknij tutaj aby sie dowiedziec o vipie](https://silvermoonrp.github.io/docs/MoonRP/info#vip-oraz-moonpass) |
+| unban z 31-perm       |    80 zł  |  |
+| unban 15-30dni        |    40 zł  |  |
+| unban 8-14dni         |    30 zł  |  |
+| unban 1-7dni          |    25 zł  |  |
+| VIP?                |  60 zł  | [Kliknij tutaj aby sie dowiedziec o vipie](https://silvermoonrp.github.io/docs/MoonRP/info#vip-oraz-moonpass) |
 | Custom dzwięk samochodu|    20 zł |  |
 | Custom rejestracja pojazdu|    20 zł  | Musi być 8 znaków spacja się również liczy|
 | Custom nummer telefonu|    20 zł  |  |
 | Slot na postać|    20 zł          |  |
-| +100kg w szafce ORGANIZACJI|    50 zł  |  |
+| +50kg w szafce ORGANIZACJI|    50 zł  |  |
 | +10 slotów w szafce ORGANIZACJI|    30 zł  |  |
-| Przeniesienie miejsca szafki|    20 zł  | Postawienie oraz Pierwsze przeniesienie jest darmowe! |
+| MoonCoin |    10 zł          | 50.000 Moon coiny można wykorzystać na serwerze w celu kupna skrzynki z pojazdami/bronii |
 | Skrzynka Broni        |    40 zł  |`5x SNSPistol`, `5x Pistol`, `5x Glock`, `5x VintagePistol`,`5x HeavyPistol`, `5x Deagle`|
 | Skrzynka Broni 2      |    70 zł  |`4x Glock`,`4x HeavyPistol`, `4x Deagle`|
 | Skrzynka Broni 3      |    70 zł  |`4x Vintage Pistol`,`4x Beretta`, `4x Ceramic pistol`|
@@ -68,7 +68,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Skrzynka Policyjna      |    60 zł  |`Raptor`,`Charger`, `Explorer`, `Korvette c7`|
 | Skrzynka Policyjna2      |    60 zł  |`Krown Viktoria`,`Motor BWW`, `Challenger`, `Wustang`, `Bissan Tituan`|
 | Skrzynka Cardealer      |    20 zł  |Znizka na pojazd z cardealera od 10% do 25%|
-| Awans w PD      |    60 zł  | 1 Ranga w góre|
+| Awans w PD      |    30 zł  | 1 Ranga w góre|
 | Stół do Craftingu Dodatki|    100 zł  |   Dodatki do broni / Stół traci 1% wytrzymałości przy każdym craftowaniu   |
 | Stół do Craftingu Broni|    100 zł  |    Stół traci 1% wytrzymałości przy każdym craftowaniu   |
 | Podniesienie limitki do klasy wyżej|    150 zł  |       |
@@ -77,7 +77,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Interior |    200+ zł  | Cena Zależna od wielkości oraz optymalizacji interioru (interior dajesz ty)|
 | Własny interior       |    50 zł Miesiecznie |(interior dajesz ty)|
 | Custom Ubranie|    50 zł  | Ty dajesz ubranie!|
-| Helikopter na własność      |    500 zł  |    + licencja   |
+| Helikopter na własność      |    300 zł  |    + licencja   |
 | Yacht na własność     |    250 zł |      |
 | Paczka SilverMoonRP|    2000 zł  |  |
 
