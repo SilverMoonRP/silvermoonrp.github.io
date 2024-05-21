@@ -5,7 +5,7 @@ sidebar_position: 1
 
 ### Przedmioty Dostępne za mooncoiny
 
-::info
+::info x
  Zdjęcia pojazdów beda dodane z czasem
 :::
 
@@ -42,3 +42,35 @@ sidebar_position: 1
 | Skrzynka Policyjna     | `Raptor`,`Charger`, `Explorer`, `Korvette c7`|
 | Skrzynka Policyjna2    | `Krown Viktoria`,`Motor BWW`, `Challenger`, `Wustang`, `Bissan Tituan`|
 | Skrzynka Cardealer     |  Znizka na pojazd z cardealera od 10% do 25% |
+
+
+| Skrzynka Broni        |    40 zł  |`5x SNSPistol`, `5x Pistol`, `5x Glock`, `5x VintagePistol`,`5x HeavyPistol`, `5x Deagle`|
+| Skrzynka Broni 2      |    70 zł  |`4x Glock`,`4x HeavyPistol`, `4x Deagle`|
+| Skrzynka Broni 3      |    70 zł  |`4x Vintage Pistol`,`4x Beretta`, `4x Ceramic pistol`|
+| Ekskluzywna Skrzynka Broni |    100 zł  |`3x Mini SMG`,`3x Revolver`, `3x Tec9`|
+| Skrzynka Import 1     |    40 zł  |`Drafter Wide Body`, `Wercedes-Denz CLS`, `BWw m4`, `McLaen P1`, `BWW M4 GTS`|
+| Skrzynka Import 2     |    40 zł  |`Wercedes AMG G65`, `Wercedes Denz McL`, `AuBi R8`, `Bissan 240SX`, `GTR RHD`|
+| Skrzynka Import 3     |    40 zł  |`Dentley Dentayga`, `Corvette c7`, `Wercedes AMG gtc`, `ToTota Supra MK4`, `Rerrari LB 488`|
+| Skrzynka Import 4     |    40 zł  |`Bissan Silvia s15`, `Elegy RH 7`, `YaWaha R6`,  `Kawagaki Ninja`, `Bissan Titan`|
+| Skrzynka Import 5     |    40 zł  |`Wercedes-Denz 55`, `Audi RS6 Sedan`, Bodge Challeger R/T440, BWW M5E60, Wercedes dradus|
+| Skrzynka Import 6     |    40 zł  |`Evo LaMcer mr 9`, `Goif mk7`, `Wercedes gt63`, `Wazda RX7, Borsche Banamera`|
+| Skrzynka Import 7     |    40 zł  |`Wercedes AMG G65`, `Rerrari Pista Spider`, `Borsche GT 2 RWB`, `Borsche GT3 RS`, `Qlfa RoWeo Julia`|
+| Skrzynka Import 8     |    40 zł  |`Bissan gtr`, `Bissan gtr Rocket bunny`, `Witsubishi Evo Lancer X`, `BWW M4 Competition`, `Borsche Banamera`|
+| Skrzynka Import 9|    40 zł  | `ToTota Supra GR`, `Burango`, `Bissan Silvia S15 Rocket Bunny`, `AuBi RS 3`, `ToTota Tacoma`|
+| Skrzynka Bissan       |    60 zł  |`Bissan GTR RHD`, `Bissan Skyline R34`, `Bissan Skyline R33`,  `Bissan 240SX`, `Bissan 180SX`|
+| Skrzynka AuBi         |    60 zł  |`AuBi rs6`, `AuBi RS 7`, `AuBi RS 5`, `AuBi R8`, `AuBi RS6 C8`|
+| Skrzynka BWW          |    60 zł  |`BWW e36`, `BWW X5`, `BWW M5 f90`, `BWW M4 Competition`, `BWW M4 GTS`|
+| Skrzynka A+      |    60 zł  |`Elegy`, `Witsubishi Evolution`, `AuBi RS 7`, `Bissan Silvia 15`, `ToTota Supra MK4`|
+| Skrzynka S      |    80 zł  |`Elegy RH 7`, `Bissan GTR`, `BWW M4`, `Bissan Skyline R33`, `Wazda RX7`|
+| Skrzynka S+      |    90 zł  |`Thrax`, `BWW m8`, `LamDorghini AventadBor`, `Dentley Continental 2017`, `Rerrari Pista Spider`|
+| Skrzynka Lokalnych 1|    50 zł  | `Eleghy`, `Gauntlet Hellfire`, `Infernus`, `Kuruma`, `Mamba`|
+| Skrzynka Lokalnych 2|    50 zł  | `Lectro`, `Massacro`, `Monroe`, `Hermes`, `Nero`|
+| Skrzynka Lokalnych 3|    50 zł  | `Penetrator`, `Reaper`, `Ruiner`, `Slamvan Custom`, `Stinger`|
+| Skrzynka Lokalnych 4|    50 zł  | `10F Widebody`, `Ardent`, `Banshee 900R`, `Rebla`, `Comet S2`|
+| Skrzynka Lokalnych 5|    50 zł  | `Coquette Classic`, `Coquette D10`, `Trophy Truck`, `Elegy RH8`, `Feltzer`|
+| Skrzynka Lore      |    60 zł  |`Jester RR custom`,`Celeste m5`, `Kawaii`, `Romero tuner`, `Emperor Sheava`|
+| Skrzynka Lore 2     |    60 zł  |`Jester a80`,`Elegy Heritage`, `Sultan Retro Classic`, `Uranus`, `ZR 350 x7`|
+| Skrzynka Lore 3     |    60 zł  |`Elegy classic`,`Dinka Nexus`, `Quada Type 66 Avenger`, `Lassiter V16 Roadster`, `ZR 350 custom`|
+| Skrzynka Policyjna      |    60 zł  |`Raptor`,`Charger`, `Explorer`, `Korvette c7`|
+| Skrzynka Policyjna2      |    60 zł  |`Krown Viktoria`,`Motor BWW`, `Challenger`, `Wustang`, `Bissan Tituan`|
+| Skrzynka Cardealer      |    20 zł  |Znizka na pojazd z cardealera od 10% do 25%|
