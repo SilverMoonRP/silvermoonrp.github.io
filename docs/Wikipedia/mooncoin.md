@@ -42,3 +42,9 @@ sidebar_position: 1
 | Skrzynka Policyjna            | `Raptor`,`Charger`, `Explorer`, `Korvette c7`|
 | Skrzynka Policyjna2           | `Krown Viktoria`,`Motor BWW`, `Challenger`, `Wustang`, `Bissan Tituan`|
 | Skrzynka Cardealer            |  Znizka na pojazd z cardealera od 10% do 25% |
+
+
+
+
+<!-- | Stół do Craftingu Dodatki|    100 zł  |   Dodatki do broni / Stół traci 1% wytrzymałości przy każdym craftowaniu   |
+| Stół do Craftingu Broni|    100 zł  |    Stół traci 1% wytrzymałości przy każdym craftowaniu   | -->

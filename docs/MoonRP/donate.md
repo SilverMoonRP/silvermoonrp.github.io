@@ -10,9 +10,9 @@ sidebar_position: 3
  20% na wszystko
 ::: -->
 
-| Nowości             |  Kwota    |  Informacje |
+<!-- | Nowości             |  Kwota    |  Informacje |
 |------------         |-----------|--------|
-| Poziom organizacji lv2 [30 dni] |  70 zł | lvl 2 daje dostep organizacji do szafki |
+| Poziom organizacji lv2 [30 dni] |  70 zł | lvl 2 daje dostep organizacji do szafki | -->
 
 
 
@@ -37,10 +37,8 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Slot na postać|    20 zł          |  |
 | +50kg w szafce ORGANIZACJI|    50 zł  |  |
 | +10 slotów w szafce ORGANIZACJI|    30 zł  |  |
-| MoonCoin |    10 zł          | 50.000 Moon coiny można wykorzystać na serwerze w celu kupna skrzynki z pojazdami/bronii |
+| MoonCoin |    10 zł          | 50.000 Moon coiny można wykorzystać na serwerze w celu kupna [przedmiotów](https://silvermoonrp.github.io/docs/Wikipedia/mooncoin)|
 | Awans w PD      |    30 zł  | 1 Ranga w góre|
-| Stół do Craftingu Dodatki|    100 zł  |   Dodatki do broni / Stół traci 1% wytrzymałości przy każdym craftowaniu   |
-| Stół do Craftingu Broni|    100 zł  |    Stół traci 1% wytrzymałości przy każdym craftowaniu   |
 | Podniesienie limitki do klasy wyżej|    150 zł  |       |
 | Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
 | Własna firma |    100+ zł  | Firma której nie ma na serwerze |
