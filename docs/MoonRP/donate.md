@@ -24,7 +24,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 |------------           |-----------|--------|
 | Limitka               |    100 zł  | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Zamiana Limitki       |    60 zł  | w ciagu 5 dni oraz za 50k w cd na serwerze |
-| Limitka szybciej      |    40 zł  | Gdy zakupisz limitke za 50zł i dokupisz tą opcje to masz ją w ciągu 2/4 restartow serwera|
+| Limitka szybciej      |    40 zł  | Gdy zakupisz limitke za 100zł i dokupisz tą opcje to masz ją w ciągu 2/4 restartow serwera|
 | unban za cheat        |    130 zł |  |
 | unban z 31-perm       |    80 zł  |  |
 | unban 15-30dni        |    40 zł  |  |
