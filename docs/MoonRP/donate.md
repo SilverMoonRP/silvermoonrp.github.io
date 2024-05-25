@@ -22,6 +22,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 
 | Przedmiot             |  Kwota    |  Informacje |
 |------------           |-----------|--------|
+| MoonCoin |    10 zł          | 50.000 Moon coiny można wykorzystać na serwerze w celu kupna [przedmiotów](https://silvermoonrp.github.io/docs/Wikipedia/mooncoin)|
 | Limitka               |    100 zł  | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Zamiana Limitki       |    60 zł  | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Limitka szybciej      |    40 zł  | Gdy zakupisz limitke za 100zł i dokupisz tą opcje to masz ją w ciągu 2/4 restartow serwera|
@@ -37,7 +38,6 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Slot na postać|    20 zł          |  |
 | +50kg w szafce ORGANIZACJI|    50 zł  |  |
 | +10 slotów w szafce ORGANIZACJI|    30 zł  |  |
-| MoonCoin |    10 zł          | 50.000 Moon coiny można wykorzystać na serwerze w celu kupna [przedmiotów](https://silvermoonrp.github.io/docs/Wikipedia/mooncoin)|
 | Awans w PD      |    30 zł  | 1 Ranga w góre|
 | Podniesienie limitki do klasy wyżej|    150 zł  |       |
 | Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
