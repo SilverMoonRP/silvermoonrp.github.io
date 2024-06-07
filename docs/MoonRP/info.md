@@ -4,26 +4,6 @@ sidebar_position: 2
 
 # Ogólne Informacje
 
-## Poziomy
-
-Poziomy na serwerze wbija się poprzez pracowanie legalnie, robienie misji lub nielegalne rzeczy opisane w [Crime](../MoonRP/crime.md).
-
-
-## Misje
-
-- Na serwerze są dostępne dzienne misję które możesz odpalić poprzez tablet pod przyciskiem F10.
-- Dostępne są również misję jedno razowe które możesz znaleźć w otwartym świecie.
-
-## VIP
-
-- Doświadczenie zdobywane na serwerze x2
-- Użycie /kajdanki 2 razy
-- Wyciaganie pojazdu z garazu jest za darmo
-- +10kg wagi
-- +10 slotów
-- Staty na siłowni *2
-- Daily skrzynka
-
 ## Klasy pojazdów
 Na serwerze pojazdy są przypisane do customowych klas od D do S+
 

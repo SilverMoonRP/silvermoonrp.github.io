@@ -31,7 +31,6 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | unban 15-30dni        |    40 zł  |  |
 | unban 8-14dni         |    30 zł  |  |
 | unban 1-7dni          |    25 zł  |  |
-| VIP?                |  60 zł  | [Kliknij tutaj aby sie dowiedziec o vipie](https://silvermoonrp.github.io/docs/MoonRP/info#vip-oraz-moonpass) |
 | Custom dzwięk samochodu|    20 zł |  |
 | Custom rejestracja pojazdu|    20 zł  | Musi być 8 znaków spacja się również liczy|
 | Custom nummer telefonu|    20 zł  |  |
