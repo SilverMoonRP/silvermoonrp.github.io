@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Crime
 
-| Wymagania Do          |  Poziom   |  LSPD  |  Przedmioty                  | Dodatkowe Informacje   |
+<!-- | Wymagania Do          |  Poziom   |  LSPD  |  Przedmioty                  | Dodatkowe Informacje   |
 |------------           |-----------|--------|-------------                 |---------------         |
 | Cięzarówka            |     -     |   1    |Szlifierka                    |                        |
 | Bankomat              |     -     |   1    |  VPN                         |                        |
@@ -14,8 +14,7 @@ sidebar_position: 1
 | Jubiler               |    2      |   3    |             -                |Potrzebne **180Kg** wagi|
 | Pacyfic               |    2      |   4    |3x Thermite, 2x Czarna Karta  |Potrzebne **45Kg** wagi |
 | Ammunation            |    0      |   4    |1x Thermite, 1x Urzadzenie Do Hakowania|               |
-| Cyber                 |    2      |   5    |1x Klucz dostępu              |                        |
-| Napad na gruppe6      |    0      |    3   |1x Urzadzenie Do Hakowania, pojazd gruppe6|            |
+| Cyber                 |    2      |   5    |1x Klucz dostępu              |                        | -->
 
 :::info
 Zobacz [Regulamin](../regulamin.md) podpunkt 6 tabelke aby zobaczyć dokładne limity
