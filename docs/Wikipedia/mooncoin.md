@@ -28,7 +28,7 @@ sidebar_position: 1
 | Skrzynka Bissan               | `Bissan GTR RHD`, `Bissan Skyline R34`, `Bissan Skyline R33`,  `Bissan 240SX`, `Bissan 180SX`|
 | Skrzynka AuBi                 | `AuBi rs6`, `AuBi RS 7`, `AuBi RS 5`, `AuBi R8`, `AuBi RS6 C8`|
 | Skrzynka BWW                  | `BWW e36`, `BWW X5`, `BWW M5 f90`, `BWW M4 Competition`, `BWW M4 GTS`|
-| Skrzynka A+                   | `Elegy`, `Witsubishi Evolution`, `AuBi RS 7`, `Bissan Silvia 15`, `ToTota Supra MK4`|
+| Skrzynka A+                   | `Bissan Skyline R32`, `Witsubishi Evolution`, `AuBi RS 7`, `Bissan Silvia 15`, `ToTota Supra MK4`|
 | Skrzynka S                    | `Elegy RH 7`, `Bissan GTR`, `BWW M4`, `Bissan Skyline R33`, `Wazda RX7`|
 | Skrzynka S+                   | `Thrax`, `BWW m8`, `LamDorghini AventadBor`, `Dentley Continental 2017`, `Rerrari Pista Spider`|
 | Skrzynka Lokalnych 1          | `Eleghy`, `Gauntlet Hellfire`, `Infernus`, `Kuruma`, `Mamba`|
