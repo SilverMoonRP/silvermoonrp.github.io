@@ -8,7 +8,7 @@ sidebar_position: 1
 
 | Przedmiot:                    | ilość: | 
 |-------------------------------|-----------|
-| Skrzynka Broni                | `5x SNSPistol`, `5x Pistol`, `5x Glock`, `5x VintagePistol`,`5x HeavyPistol`, `5x Deagle` |
+| Skrzynka Broni                | `3x SNSPistol`, `3x Pistol`, `3x Glock`, `3x VintagePistol`,`3x HeavyPistol`, `3x Deagle` |
 | Skrzynka Broni 2              | `4x Glock`,`4x HeavyPistol`, `4x Deagle` |
 | Skrzynka Broni 3              | `4x Vintage Pistol`,`4x Beretta`, `4x Ceramic pistol`  |
 | Ekskluzywna Skrzynka Broni    | `3x Mini SMG`,`3x Revolver`, `3x Tec9`  |
