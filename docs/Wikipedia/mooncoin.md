@@ -12,7 +12,7 @@ sidebar_position: 1
 | Skrzynka Broni 2              | `4x Glock`,`4x HeavyPistol`, `4x Deagle` |
 | Skrzynka Broni 3              | `4x Vintage Pistol`,`4x Beretta`, `4x Ceramic pistol`  |
 | Ekskluzywna Skrzynka Broni    | `3x Mini SMG`,`3x Revolver`, `3x Tec9`  |
-| Skrzynka Limitowane BWN       | `BWM M2V `, `BWM M4 ADRO`, `BWM M3`, `BWM M3 TOURING ILLEGAL`, `BWM E36`|
+| Skrzynka Limitowane BWN       | `BWM M4 ADRO`, `BWM M3`, `BWM E36`|
 | Skrzynka Limitowane BWN 2     | `BWM M4F82`, `BWM M3 TOURING`, `BWW M4 CUSTOM`, `BWM MH3 600`, `BWM M5`|
 | Skrzynka Illegal              | `BISSAN S15`, `LAWBORGHINI ADVENTADORO`, `LAWBORGHINI HURICANO`, `BWM MH3 600`, `WERCEDES AMG GTR`|
 | Skrzynka Limitka              | `YOYOTA SUPRA MK5`, `BWM M3 BANE`, `BWM M3 G80`, `WERCEDES G63`, `BWM M8 CUSTOM`|
