@@ -18,17 +18,17 @@ sidebar_position: 1
 | Skrzynka Limitka              | `YOYOTA SUPRA MK5`, `BWM M3 BANE`, `BWM M3 G80`, `WERCEDES G63`, `BWM M8 CUSTOM`|
 | Skrzynka Import 1             | `Drafter Wide Body`, `Wercedes-Denz CLS`, `BWw m4`, `McLaen P1`, `BWW M4 GTS`|
 | Skrzynka Import 2             | `Wercedes AMG G65`, `Wercedes Denz McL`, `AuBi R8`, `Bissan 240SX`, `GTR RHD`|
-| Skrzynka Import 3             | `Dentley Dentayga`, `Corvette c7`, `Wercedes AMG gtc`, `ToTota Supra MK4`, `Rerrari LB 488`|
+| Skrzynka Import 3             | `Dentley Dentayga`, `Corvette c7`, `ToTota Supra MK4`, `Rerrari LB 488`|
 | Skrzynka Import 4             | `Bissan Silvia s15`, `Elegy RH 7`, `YaWaha R6`,  `Kawagaki Ninja`, `Bissan Titan`|
-| Skrzynka Import 5             | `Wercedes-Denz 55`, `Audi RS6 Sedan`, Bodge Challeger R/T440, BWW M5E60, Wercedes dradus|
+| Skrzynka Import 5             | `Wercedes-Denz 55`, `Audi RS6 Sedan`, `Bodge Challeger R/T440`, `BWW M5E60`, `Wercedes dradus`|
 | Skrzynka Import 6             | `Evo LaMcer mr 9`, `Goif mk7`, `Wercedes gt63`, `Wazda RX7, Borsche Banamera`|
 | Skrzynka Import 7             | `Wercedes AMG G65`, `Rerrari Pista Spider`, `Borsche GT 2 RWB`, `Borsche GT3 RS`, `Qlfa RoWeo Julia`|
 | Skrzynka Import 8             | `Bissan gtr`, `Bissan gtr Rocket bunny`, `Witsubishi Evo Lancer X`, `BWW M4 Competition`, `Borsche Banamera`|
 | Skrzynka Import 9             |  `ToTota Supra GR`, `Burango`, `Bissan Silvia S15 Rocket Bunny`, `AuBi RS 3`, `ToTota Tacoma`|
 | Skrzynka Bissan               | `Bissan GTR RHD`, `Bissan Skyline R34`, `Bissan Skyline R33`,  `Bissan 240SX`, `Bissan 180SX`|
-| Skrzynka AuBi                 | `AuBi rs6`, `AuBi RS 7`, `AuBi RS 5`, `AuBi R8`, `AuBi RS6 C8`|
+| Skrzynka AuBi                 | `AuBi RS 5`, `AuBi R8`, `AuBi RS6`|
 | Skrzynka BWW                  | `BWW e36`, `BWW X5`, `BWW M5 f90`, `BWW M4 Competition`, `BWW M4 GTS`|
-| Skrzynka A+                   | `Bissan Skyline R32`, `Witsubishi Evolution`, `AuBi RS 7`, `Bissan Silvia 15`, `ToTota Supra MK4`|
+| Skrzynka A+                   | `Bissan Skyline R32`, `Witsubishi Evolution`, `Bissan Silvia 15`, `ToTota Supra MK4`|
 | Skrzynka S                    | `Elegy RH 7`, `Bissan GTR`, `BWW M4`, `Bissan Skyline R33`, `Wazda RX7`|
 | Skrzynka S+                   | `Thrax`, `BWW m8`, `LamDorghini AventadBor`, `Dentley Continental 2017`, `Rerrari Pista Spider`|
 | Skrzynka Lokalnych 1          | `Eleghy`, `Gauntlet Hellfire`, `Infernus`, `Kuruma`, `Mamba`|
