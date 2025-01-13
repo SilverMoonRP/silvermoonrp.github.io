@@ -73,7 +73,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 
 - 6.1 W miejscach (zielona strefa) jest zakaz porywania i zabijania obywateli. Osoba która specjalnie ucieka do tych miejsc podczas akcji RP stanowi wyjątek co znaczy że taką osobę można porwać lub zabić.
 - 6.2 Odbijanie osób na szpitalu lub komendzie jest zabronione chyba, że akcja odbijania rozpoczęła się wcześniej.
-- 6.3 Nie można wymusić na obywatelu przepisania swojego pojazdu lub oddania wszystkich swoich pieniędzy oraz zakazuje sie oszukiwania podczas kupowania pojazdu.123
+- 6.3 Nie można wymusić na obywatelu przepisania swojego pojazdu lub oddania wszystkich swoich pieniędzy oraz zakazuje sie oszukiwania podczas kupowania pojazdu.
 - 6.4 Zakazuje się porywania, okradania oraz zabijania obywateli gdy na służbie jest mniej niż 2 policjantów. 
  Wyjątkiem są organizacje przestępcze mające między sobą porachunki, czerwone strefy oraz akcje z policja np okradanie ciezarówki. Jeżeli okradany obywatel ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
 - 6.5 LSPD może wykorzystać maksymalnie 8 funkcjonariuszy policji do akcji RP. Nie podlega punktowi 6.8. Zorganizowana Grupa przestępcza może wykorzystać maksymalnie 8 graczy do akcji RP.
