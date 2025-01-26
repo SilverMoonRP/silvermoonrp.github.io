@@ -14,8 +14,8 @@ sidebar_position: 1
 | Ekskluzywna Skrzynka Broni    | `3x Mini SMG`,`3x Revolver`, `3x Tec9`  |
 | Skrzynka Limitowane BWN       | `BWM M4 ADRO`, `BWM M3`, `BWM E36`|
 | Skrzynka Limitowane BWN 2     | `BWM M4F82`, `BWM M3 TOURING`, `BWW M4 CUSTOM`, `BWM MH3 600`, `BWM M5`|
-| Skrzynka Illegal              | ![bww](/img/limitki_illegal.jpg)|
-| Skrzynka Limitka              | ![bww](/img/limitki.jpg)|
+| Skrzynka Illegal              | ![illli](/img/limitki_illegal.jpg)|
+| Skrzynka Limitka              | ![lim](/img/limitki.jpg)|
 | Skrzynka Import 1             | `Drafter Wide Body`, `Wercedes-Denz CLS`, `BWw m4`, `McLaen P1`, `BWW M4 GTS`|
 | Skrzynka Import 2             | `Wercedes AMG G65`, `Wercedes Denz McL`, `AuBi R8`, `Bissan 240SX`, `GTR RHD`|
 | Skrzynka Import 3             | `Dentley Dentayga`, `Corvette c7`, `ToTota Supra MK4`, `Rerrari LB 488`|
@@ -24,13 +24,13 @@ sidebar_position: 1
 | Skrzynka Import 6             | `Evo LaMcer mr 9`, `Goif mk7`, `Wercedes gt63`, `Wazda RX7, Borsche Banamera`|
 | Skrzynka Import 7             | `Wercedes AMG G65`, `Rerrari Pista Spider`, `Borsche GT 2 RWB`, `Borsche GT3 RS`, `Qlfa RoWeo Julia`|
 | Skrzynka Import 8             | `Bissan gtr`, `Bissan gtr Rocket bunny`, `Witsubishi Evo Lancer X`, `BWW M4 Competition`, `Borsche Banamera`|
-| Skrzynka Import 9             | ![bww](/img/import9.jpg)|
-| Skrzynka Bissan               | ![bww](/img/nissanbox.jpg)|
-| Skrzynka AuBi                 | ![bww](/img/audibox.jpg)|
-| Skrzynka AuBi 2               | ![bww](/img/audi2box.jpg)|
+| Skrzynka Import 9             | ![i9](/img/import9.jpg)|
+| Skrzynka Bissan               | ![bis](/img/nissanbox.jpg)|
+| Skrzynka AuBi                 | ![aub](/img/audibox.jpg)|
+| Skrzynka AuBi 2               | ![aub2](/img/audi2box.jpg)|
 | Skrzynka BWW                  | ![bww](/img/bmwbox.jpg)|
-| Skrzynka BWW 2                | ![bww](/img/bmw2box.jpg)|
-| Skrzynka FWord                | ![bww](/img/fordbox.jpg)|
+| Skrzynka BWW 2                | ![bww2](/img/bmw2box.jpg)|
+| Skrzynka FWord                | ![fword](/img/fordbox.jpg)|
 | Skrzynka A+                   | `Bissan Skyline R32`, `Witsubishi Evolution`, `Bissan Silvia 15`, `ToTota Supra MK4`|
 | Skrzynka S                    | `Elegy RH 7`, `Bissan GTR`, `BWW M4`, `Bissan Skyline R33`, `Wazda RX7`|
 | Skrzynka S+                   | `Thrax`, `BWW m8`, `LamDorghini AventadBor`, `Dentley Continental 2017`, `Rerrari Pista Spider`|
