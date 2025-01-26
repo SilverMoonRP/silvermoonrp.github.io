@@ -24,7 +24,7 @@ sidebar_position: 1
 | Skrzynka Import 6             | `Evo LaMcer mr 9`, `Goif mk7`, `Wercedes gt63`, `Wazda RX7, Borsche Banamera`|
 | Skrzynka Import 7             | `Wercedes AMG G65`, `Rerrari Pista Spider`, `Borsche GT 2 RWB`, `Borsche GT3 RS`, `Qlfa RoWeo Julia`|
 | Skrzynka Import 8             | `Bissan gtr`, `Bissan gtr Rocket bunny`, `Witsubishi Evo Lancer X`, `BWW M4 Competition`, `Borsche Banamera`|
-| Skrzynka Import 9             | ![i9](/img/import9.jpg)|
+| Skrzynka Import 9             | ![i9](/img/importy9.jpg)|
 | Skrzynka Bissan               | ![bis](/img/nissanbox.jpg)|
 | Skrzynka AuBi                 | ![aub](/img/audibox.jpg)|
 | Skrzynka AuBi 2               | ![aub2](/img/audi2box.jpg)|
