@@ -27,7 +27,7 @@ sidebar_position: 1
 | Skrzynka Import 9             |  `ToTota Supra GR`, `Burango`, `Bissan Silvia S15 Rocket Bunny`, `AuBi RS 3`, `ToTota Tacoma`|
 | Skrzynka Bissan               | `Bissan GTR RHD`, `Bissan Skyline R34`, `Bissan Skyline R33`,  `Bissan 240SX`, `Bissan 180SX`|
 | Skrzynka AuBi                 | `AuBi RS 5`, `AuBi R8`, `AuBi RS6`|
-| Skrzynka BWW                  | `BWW e36`, `BWW X5`, `BWW M5 f90`, `BWW M4 Competition`, `BWW M4 GTS`|
+| Skrzynka BWW                  | ![bmw](/img/bmwbox.jpg)|
 | Skrzynka A+                   | `Bissan Skyline R32`, `Witsubishi Evolution`, `Bissan Silvia 15`, `ToTota Supra MK4`|
 | Skrzynka S                    | `Elegy RH 7`, `Bissan GTR`, `BWW M4`, `Bissan Skyline R33`, `Wazda RX7`|
 | Skrzynka S+                   | `Thrax`, `BWW m8`, `LamDorghini AventadBor`, `Dentley Continental 2017`, `Rerrari Pista Spider`|
