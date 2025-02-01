@@ -45,6 +45,9 @@ sidebar_position: 1
 | Skrzynka Policyjna            | `Raptor`,`Charger`, `Explorer`, `Korvette c7`|
 | Skrzynka Policyjna2           | `Krown Viktoria`,`Motor BWW`, `Challenger`, `Wustang`, `Bissan Tituan`|
 | Skrzynka Cardealer            |  Znizka na pojazd z cardealera od 10% do 25% |
+| Skrzynka Limitowane BWN 3     | ![i4](/img/limitkabmw3.jpg)|
+| Skrzynka Limitowane AUBI      | ![i4](/img/limitkaaudi.jpg)|
+| Skrzynka Limitowane Merc      | ![i4](/img/limitkamerc.jpg)|
 
 
 
