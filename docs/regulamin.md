@@ -33,6 +33,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 2.9 Zakazuję się używania p – wordów  `ped*ł`, n – wordów  `nig*er`, c - wordów `czar**ch`, `c**l` itd oraz wszelakich słów obrażających odnośnie rasy, koloru skóry itp. Złamanie tej zasady będzie surowo karane.
 - 2.10 Wbijanie na 3 podczas akcji RP zostanie ukarane banem (Nie obowiązuje `sklepów` w strefach czerwonych).
 - 2.11 Zakazuję się stosowania Trash talku.
+- 2.12 Zakazuję się udostepniania pornografii.
 
 ## 3. Komunikacja głosowa / narracja:
 
