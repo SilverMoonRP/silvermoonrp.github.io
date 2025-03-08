@@ -115,7 +115,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 | Tracker    |   1-4  |    2-6   |   x   |
 | Gruppe6    |   1-6  |    3-6   |   x   |
 | Fleeca     |   2-4  |    3-6   | 40min |
-| MazeBank     |   2-4  |    3-6   | 40min |
+| MazeBank   |   2-4  |    3-6   | 40min |
 | Jubiler    |   2-6  |    4-7   | 40min |
 | Galeria    |   3-6  |    4-8   | 60min |
 | Pacyfik    |   3-6  |    4-8   | 60min |

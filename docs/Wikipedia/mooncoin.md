@@ -48,6 +48,8 @@ sidebar_position: 1
 | Skrzynka Limitowane BWN 3     | ![i4](/img/limitkabmw3.jpg)|
 | Skrzynka Limitowane AUBI      | ![i4](/img/limitkaaudi.jpg)|
 | Skrzynka Limitowane Merc      | ![i4](/img/limitkamerc.jpg)|
+| Skrzynka Limitowane Mitsu      | ![imit](/img/mitsu.png)|
+| Skrzynka Limitowane Motory      | ![imt](/img/motory.png)|
 
 
 
