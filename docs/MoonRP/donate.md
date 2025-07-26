@@ -22,7 +22,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 
 | Przedmiot             |  Kwota    |  Informacje |
 |------------           |-----------|--------|
-| MoonCoin |    10 zł          | 50.000 `Gdy kupujesz poprzez` [Blik](https://tipo.live/p/militarynekomaid) wpisz w treści: `ID mc` po minucie otrzymasz adekwatną ilość mooncoinow na serwerze <br> Moon coiny można wykorzystać na serwerze w celu kupna [przedmiotów](https://silvermoonrp.github.io/docs/Wikipedia/mooncoin)|
+| MoonCoin |    10 zł          | 50.000 `Gdy kupujesz poprzez` [Blik](https://tipo.live/p/militarynekomaid) wpisz w treści: `ID mc` po minucie otrzymasz adekwatną ilość mooncoinow na serwerze Moon coiny można wykorzystać na serwerze w celu kupna [przedmiotów](https://silvermoonrp.github.io/docs/Wikipedia/mooncoin)|
 | Limitka               |    50zł   | w ciagu 5 dni oraz za 50k w cd na serwerze (Limitka nie jest zablokowana tylko dla Ciebie każdy, kto zechce, może ją również kupić) |
 | Limitka Na wyłączność |    100 zł | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Zamiana Limitki       |    60 zł  | w ciagu 5 dni oraz za 50k w cd na serwerze |
