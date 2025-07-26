@@ -30,7 +30,7 @@ Mooncoiny liczy tylko co 10 czyli jak dasz 19 otrzymasz jakbyś wpłacił 10 = 5
 | Limitka| 50zł   | w ciagu 5 dni oraz za 50k w cd na serwerze (Limitka nie jest zablokowana tylko dla Ciebie każdy, kto zechce, może ją również kupić)|
 | Limitka Na wyłączność |    100 zł | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Zamiana Limitki       |    60 zł  | w ciagu 5 dni oraz za 50k w cd na serwerze |
-| Limitka szybciej      |    40 zł  | Gdy zakupisz limitke za 100zł i dokupisz tą opcje to masz ją w ciągu 2/4 restartow serwera|
+| Limitka szybciej      |    40 zł  | Gdy zakupisz limitke i dokupisz tą opcje to masz ją w ciągu 2/4 restartow serwera|
 | unban za cheat        |    130 zł |  |
 | unban z 31-perm       |    80 zł  |  |
 | unban 15-30dni        |    40 zł  |  |
