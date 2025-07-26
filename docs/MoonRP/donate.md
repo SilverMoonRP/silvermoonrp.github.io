@@ -27,7 +27,7 @@ Mooncoiny liczy tylko co 10 czyli jak dasz 19 otrzymasz jakbyś wpłacił 10 = 5
 | Przedmiot             |  Kwota    |  Informacje |
 |------------           |-----------|--------|
 | MoonCoin |    10 zł          | 50.000 `Gdy kupujesz poprzez` [Blik](https://tipo.live/p/militarynekomaid) wpisz w treści: `ID mc` np. "5 mc" po minucie otrzymasz adekwatną ilość mooncoinow na serwerze. \Moon coiny można wykorzystać na serwerze w celu kupna [przedmiotów](https://silvermoonrp.github.io/docs/Wikipedia/mooncoin) od 99zł w góre + 10% mooncoinow|
-| Limitka               |    50zł   | w ciagu 5 dni oraz za 50k w cd na serwerze (Limitka nie jest zablokowana tylko dla Ciebie każdy, kto zechce, może ją również kupić) |
+| Limitka| 50zł   | w ciagu 5 dni oraz za 50k w cd na serwerze (Limitka nie jest zablokowana tylko dla Ciebie każdy, kto zechce, może ją również kupić)|
 | Limitka Na wyłączność |    100 zł | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Zamiana Limitki       |    60 zł  | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Limitka szybciej      |    40 zł  | Gdy zakupisz limitke za 100zł i dokupisz tą opcje to masz ją w ciągu 2/4 restartow serwera|
@@ -43,14 +43,15 @@ Mooncoiny liczy tylko co 10 czyli jak dasz 19 otrzymasz jakbyś wpłacił 10 = 5
 | +50kg w szafce ORGANIZACJI|    50 zł  |  |
 | +10 slotów w szafce ORGANIZACJI|    30 zł  |  |
 | Awans w PD      |    30 zł  | 1 Ranga w góre|
-| Podniesienie limitki do klasy wyżej|    150 zł  |       |
+| Lepszy handling w limitce |    50 zł  |       |
 | Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
 | Własna firma |    100+ zł  | Firma której nie ma na serwerze |
 | Interior |    200+ zł  | Cena Zależna od wielkości oraz optymalizacji interioru (interior dajesz ty)|
 | Własny interior       |    50 zł Miesiecznie |(interior dajesz ty)|
 | Custom Ubranie|    50 zł  | Ty dajesz ubranie!|
-| Helikopter na własność      |    300 zł  |    + licencja   |
-| Yacht na własność     |    250 zł |      |
+| Helikopter na własność      |    50 zł Miesiecznie |    + licencja   |
+| Yacht na własność     |    50 zł Miesiecznie |      |
+| Yacht, Helikopter, interior na własność     |    120 zł Miesiecznie |      |
 | Paczka SilverMoonRP|    2000 zł  |  |
 
 :::danger Pamiętaj
