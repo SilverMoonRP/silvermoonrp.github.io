@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Dotacje
 
-- Zakup Wyświetlenia na ekranie można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/MilitaryNekoMaid1) lub [Blik](https://tipo.live/p/militarynekomaid)
+- Zakup Wyświetlenia na ekranie można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/MilitaryNekoMaid1)
 - Za Zakup Wyświetlenia na ekranie można otrzymać różne nagrody
 
 <!-- :::info Promocja
@@ -22,7 +22,6 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 
 :::danger Pamiętaj
 Mooncoiny liczy tylko co 10 czyli jak dasz 19 otrzymasz jakbyś wpłacił 10 = 50k
-NIE MOZNA KUPOWAC PRZEDMIOTOW POPRZEZ TIPO
 :::
 
 | Przedmiot             |  Kwota    |  Informacje |
