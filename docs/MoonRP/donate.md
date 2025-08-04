@@ -3,8 +3,8 @@ sidebar_position: 3
 ---
 # Dotacje
 
-- Dotacje można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/MilitaryNekoMaid1) lub [Blik](https://tipo.live/p/militarynekomaid)
-- Za dotacje można otrzymać różne nagrody
+- Zakup Wyświetlenia na ekranie można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/MilitaryNekoMaid1) lub [Blik](https://tipo.live/p/militarynekomaid)
+- Za Zakup Wyświetlenia na ekranie można otrzymać różne nagrody
 
 <!-- :::info Promocja
  20% na wszystko
@@ -16,17 +16,18 @@ sidebar_position: 3
 
 
 
-:::note po Donate
+:::note po Zakupie Wyświetlenia na ekranie
 zgloś się na [Ticket](https://discord.com/channels/818576305514741781/1018447393227817050/1018451362566131762) aby odebrać nagrodę || jeżeli chodzi o moon coin wpisz w treści wiadomości "ID mc" po minucie otrzymasz prawidłową ilość do kwoty / od 99zł w góre + 10% mooncoinow
 :::
 
 :::danger Pamiętaj
 Mooncoiny liczy tylko co 10 czyli jak dasz 19 otrzymasz jakbyś wpłacił 10 = 50k
+NIE MOZNA KUPOWAC PRZEDMIOTOW POPRZEZ TIPO
 :::
 
 | Przedmiot             |  Kwota    |  Informacje |
 |------------           |-----------|--------|
-| MoonCoin |    10 zł          | 50.000 `Gdy kupujesz poprzez` [Blik](https://tipo.live/p/militarynekomaid) wpisz w treści: `ID mc` np. "5 mc" po minucie otrzymasz adekwatną ilość mooncoinow na serwerze. \Moon coiny można wykorzystać na serwerze w celu kupna [przedmiotów](https://silvermoonrp.github.io/docs/Wikipedia/mooncoin) od 99zł w góre + 10% mooncoinow|
+| MoonCoin |    10 zł          | 50.000 `Gdy kupujesz mooncoiny` wpisz w treści: `ID mc` np. "5 mc" po minucie otrzymasz adekwatną ilość mooncoinow na serwerze. \Moon coiny można wykorzystać na serwerze w celu kupna [przedmiotów](https://silvermoonrp.github.io/docs/Wikipedia/mooncoin) od 99zł w góre + 10% mooncoinow|
 | Limitka| 50zł   | w ciagu 5 dni oraz za 50k w cd na serwerze (Limitka nie jest zablokowana tylko dla Ciebie każdy, kto zechce, może ją również kupić)|
 | Limitka Na wyłączność |    100 zł | w ciagu 5 dni oraz za 50k w cd na serwerze |
 | Zamiana Limitki       |    60 zł  | w ciagu 5 dni oraz za 50k w cd na serwerze |
